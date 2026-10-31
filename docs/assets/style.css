@@ -52,7 +52,7 @@
     --elev-1: 0 1px 2px 0 rgb(0 0 0 / 0.3), 0 1px 3px 1px rgb(0 0 0 / 0.15);
     --elev-2: 0 1px 2px 0 rgb(0 0 0 / 0.3), 0 2px 6px 2px rgb(0 0 0 / 0.15);
     --elev-3: 0 4px 8px 3px rgb(0 0 0 / 0.3), 0 1px 3px rgb(0 0 0 / 0.3);
-    --app-notebook: #bdc1c6;
+    --app-notebook: #80868b;
   }
 }
 :root[data-theme="dark"] {
@@ -69,7 +69,7 @@
   --elev-1: 0 1px 2px 0 rgb(0 0 0 / 0.3), 0 1px 3px 1px rgb(0 0 0 / 0.15);
   --elev-2: 0 1px 2px 0 rgb(0 0 0 / 0.3), 0 2px 6px 2px rgb(0 0 0 / 0.15);
   --elev-3: 0 4px 8px 3px rgb(0 0 0 / 0.3), 0 1px 3px rgb(0 0 0 / 0.3);
-  --app-notebook: #bdc1c6;
+  --app-notebook: #80868b;
 }
 
 /* ===== Base ===== */
@@ -162,68 +162,39 @@ button, input { font: inherit; color: inherit; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .cta { color: #202124; } }
 .cta:hover { box-shadow: var(--elev-2); }
 
-/* ===== がんばり表 ===== */
-.card-chart {
-  margin: 0;
+/* ===== アプリから探す(アプリ一覧のパネル) ===== */
+.launcher {
   background: var(--bg);
   border: 1px solid var(--outline);
-  border-radius: 24px;
-  padding: 20px 20px 16px;
+  border-radius: 28px;
+  padding: 22px 16px 14px;
   box-shadow: var(--elev-2);
 }
-.card-chart figcaption {
-  display: flex; justify-content: space-between; align-items: baseline; gap: 12px;
-  margin-bottom: 14px; flex-wrap: wrap;
-}
-.chart-title { font-weight: 500; font-size: 20px; }
-.chart-note { font-size: 13px; color: var(--on-surface-var); }
-
-.chart {
+.launcher-head { padding: 0 8px 10px; }
+.launcher-head h2 { margin: 0; font-weight: 500; font-size: 20px; }
+.launcher-head p { margin: 2px 0 0; font-size: 13px; color: var(--on-surface-var); }
+.launcher-grid {
   list-style: none; margin: 0; padding: 0;
-  display: grid;
-  grid-template-columns: repeat(10, 1fr);
-  gap: 6px;
+  display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 4px;
 }
-.chart li { aspect-ratio: 1; position: relative; }
-.chart .cell {
-  position: absolute; inset: 0;
+.app {
+  width: 100%; display: grid; justify-items: center; gap: 6px;
+  padding: 14px 4px 12px;
+  border: 0; border-radius: 16px; background: none; cursor: pointer;
+  text-align: center;
+}
+.app:hover { background: var(--surface-2); }
+.app-icon {
+  width: 52px; height: 52px; border-radius: 16px;
   display: grid; place-items: center;
-  background: var(--surface); border: 0; padding: 0;
-  border-radius: 12px;
-  font-weight: 500;
-  font-size: clamp(10px, 1.25vw, 13px);
-  color: var(--on-surface-var);
-  font-variant-numeric: tabular-nums;
-}
-.chart .cell.is-ready { cursor: pointer; }
-.chart .sticker {
-  position: absolute;
-  width: 78%; aspect-ratio: 1;
-  border-radius: 50%;
-  background: var(--sticker, var(--on-surface));
+  background: var(--c); color: #fff;
   box-shadow: var(--elev-1);
-  transform: scale(0);
-  animation: stick 320ms cubic-bezier(.2, 1.3, .4, 1) forwards;
-  animation-delay: var(--delay, 0ms);
+  transition: transform 150ms ease;
 }
-.chart .cell.is-ready .num { position: relative; z-index: 1; color: #fff; font-weight: 700; }
-.chart .cell.is-making { background: transparent; border: 1.5px dashed var(--outline); }
-.chart .cell.is-ready:hover .sticker,
-.chart .cell.is-ready:focus-visible .sticker { transform: scale(1.1); box-shadow: var(--elev-3); transition: transform 150ms, box-shadow 150ms; }
-.chart .cell:focus-visible { outline-offset: 1px; }
-
-@keyframes stick {
-  from { transform: scale(0); }
-  to { transform: scale(1); }
-}
-
-.chart-legend {
-  list-style: none; margin: 14px 0 0; padding: 0;
-  display: flex; flex-wrap: wrap; gap: 4px 14px;
-  font-size: 12px; color: var(--on-surface-var);
-}
-.chart-legend li { display: inline-flex; align-items: center; gap: 6px; }
-.chart-legend i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); }
+.app:hover .app-icon { transform: translateY(-2px); }
+.app-icon svg { width: 28px; height: 28px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.app-name { font-size: 13px; line-height: 1.35; color: var(--on-surface); }
+.app-count { font-size: 12px; line-height: 1; color: var(--on-surface-var); }
 
 /* ===== Library ===== */
 .library-band { background: var(--surface); border-top: 1px solid var(--outline); }
@@ -394,14 +365,15 @@ button, input { font: inherit; color: inherit; }
   .ep-title { font-size: 14px; }
   .ep-dur { font-size: 11px; right: 6px; bottom: 6px; }
   .tag { font-size: 11px; padding: 0 6px; }
-  .card-chart { padding: 16px 12px 12px; border-radius: 20px; }
-  .chart { gap: 4px; }
-  .chart .cell { border-radius: 8px; font-size: 10px; }
+  .launcher { padding: 18px 8px 8px; border-radius: 24px; }
+  .launcher-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .app-icon { width: 46px; height: 46px; border-radius: 14px; }
+  .app-name { font-size: 12px; }
   .viewer { border-radius: 20px; }
   .viewer-body { padding: 16px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .chart .sticker { animation: none; transform: scale(1); }
-  .ep, .search, .chart .sticker { transition: none; }
+  .ep, .search, .app-icon { transition: none; }
+  .app:hover .app-icon { transform: none; }
 }
