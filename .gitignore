@@ -1,0 +1,4 @@
+youtube/videos/
+__pycache__/
+*.pyc
+.DS_Store

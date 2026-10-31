@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Google Workspace 活用動画</title>
+  <meta name="description" content="先生の仕事が軽くなる Google Workspace の使い方を、1本30秒ほどの動画で。スプレッドシートの小技から Gemini・GAS まで。">
+  <!-- 公開の準備ができるまで検索エンジンに載せない。公開するときはこの行を消す -->
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='9' cy='9' r='6' fill='%234285f4'/%3E%3Ccircle cx='23' cy='9' r='6' fill='%23ea4335'/%3E%3Ccircle cx='9' cy='23' r='6' fill='%2334a853'/%3E%3Ccircle cx='23' cy='23' r='6' fill='%23fbbc04'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <a class="skip" href="#library">一覧へ移動</a>
+
+  <header class="site-header">
+    <div class="wrap">
+      <p class="brand">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <span><b>Google Workspace 活用動画</b> <small>by 全力先生</small></span>
+      </p>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero wrap" aria-labelledby="hero-title">
+      <div class="hero-text">
+        <p class="hero-eyebrow"><i></i>学校の先生のための使い方動画</p>
+        <h1 id="hero-title"><span>先生の仕事が</span><span>軽くなる</span><br><span>Google の</span><span>使い方を</span><br><span><em>1本30秒</em>で。</span></h1>
+        <p class="lead">スプレッドシートの小技から <span class="nw">Gemini・GAS まで。</span><br><span id="count-ready">—</span>本の動画を、アプリや目的から探せます。</p>
+        <div class="g-bar" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+        <a class="cta" href="#library">動画を探す
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M12 5v14m0 0-6-6m6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+      </div>
+
+      <figure class="card-chart" aria-labelledby="chart-caption">
+        <figcaption id="chart-caption">
+          <span class="chart-title">がんばり表</span>
+          <span class="chart-note">シールの回から見られます</span>
+        </figcaption>
+        <ol class="chart" id="chart"></ol>
+        <ul class="chart-legend" id="chart-legend" aria-label="シールの色"></ul>
+      </figure>
+    </section>
+
+    <div class="library-band">
+      <section class="library wrap" id="library" aria-label="動画の一覧">
+        <div class="toolbar">
+          <label class="search">
+            <span class="visually-hidden">動画を探す</span>
+            <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            <input id="q" type="search" placeholder="例: 席替え、自動採点、Gemini" autocomplete="off">
+          </label>
+          <div class="filters" id="filters" role="group" aria-label="アプリでしぼる"></div>
+        </div>
+        <p class="result-note" id="result-note" aria-live="polite"></p>
+        <div id="sections"></div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>このサイトは個人が作ったもので、Google の公式サイトではありません。Google Workspace、Gemini などは Google LLC の商標です。</p>
+      <p>動画の画面は、HTMLで再現したものです。実際の画面とボタン名などが少しちがうことがあります。</p>
+      <p>動画に出てくる子ども・学校・先生の名前は、すべて架空です。</p>
+      <p class="credit">© 全力先生(@edupower07)</p>
+    </div>
+  </footer>
+
+  <dialog class="viewer" id="viewer" aria-labelledby="viewer-title">
+    <div class="viewer-inner">
+      <button class="viewer-close" type="button" data-close aria-label="閉じる">
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+      </button>
+      <div class="player" id="player"></div>
+      <div class="viewer-body">
+        <p class="viewer-meta" id="viewer-meta"></p>
+        <h2 id="viewer-title"></h2>
+        <ul class="tags" id="viewer-tags"></ul>
+        <div class="viewer-desc" id="viewer-desc"></div>
+        <nav class="viewer-nav" aria-label="前後の回">
+          <button type="button" id="prev">← 前の回</button>
+          <button type="button" id="next">次の回 →</button>
+        </nav>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

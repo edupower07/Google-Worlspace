@@ -1,0 +1,1934 @@
+{
+  "parts": [
+    {
+      "id": "p1",
+      "series": "基本編",
+      "name": "第1部 まずはここから基本編"
+    },
+    {
+      "id": "p2",
+      "series": "基本編",
+      "name": "第2部 知ってると差がつく小技編"
+    },
+    {
+      "id": "p3",
+      "series": "基本編",
+      "name": "第3部 授業で使える活用編"
+    },
+    {
+      "id": "p4",
+      "series": "基本編",
+      "name": "第4部 Geminiで一歩先へ応用編"
+    },
+    {
+      "id": "a1",
+      "series": "応用編",
+      "name": "Part1 Gemini Notebook(旧 NotebookLM)"
+    },
+    {
+      "id": "a2",
+      "series": "応用編",
+      "name": "Part2 GAS(Google Apps Script)"
+    },
+    {
+      "id": "a3",
+      "series": "応用編",
+      "name": "Part3 授業の1場面"
+    },
+    {
+      "id": "a4",
+      "series": "応用編",
+      "name": "Part4 Gemini"
+    },
+    {
+      "id": "ex",
+      "series": "番外編",
+      "name": "番外編"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "01",
+      "no": 1,
+      "slug": "音声入力",
+      "title": "しゃべるだけで記録が一気に終わる",
+      "series": "基本編",
+      "part": "p1",
+      "apps": [
+        "ドキュメント"
+      ],
+      "description": "放課後、授業の記録や所見のメモを打つ時間が足りない。\nドキュメントの音声入力なら、話した言葉がそのまま文字になります。\n\nやることは3つ\n① ツール → 音声入力\n② マイクを押して話す\n③ もう一度押して終了\n\n句読点はあとでまとめて整えるのが早いです。\nパソコンのブラウザ(Chrome・Edge・Safari)で使えます。iPadではキーボードのマイクで代用できます。\n打つ時間を、子どもを見る時間に。\n保存して、今日の記録で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleドキュメント",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 29,
+      "cover": "assets/covers/01.jpg",
+      "youtube_id": null,
+      "video_file": "第01回_音声入力_video.mp4",
+      "drive": {
+        "folder_id": "1HO8wm4K36_Le7aEHUAVO0-1us4PfT59Q",
+        "video_id": "1I-8mInosLSN2RICP1ele6AdBrxiySiQl",
+        "video_v_id": "1k_GQJyNKLXtvcujYVyOzEtPGfTN1ryWB"
+      },
+      "cover_src_modified": "2026-10-08T16:28:15.290Z"
+    },
+    {
+      "id": "02",
+      "no": 2,
+      "slug": "1人1枚スライド",
+      "title": "1人1枚スライドで全員の考えが見える",
+      "series": "基本編",
+      "part": "p1",
+      "apps": [
+        "スライド"
+      ],
+      "description": "発表できるのは、いつも同じ子。ほかの子が何を考えているのか、本当はみんなの考えを見たいんですよね。\n番号と名前を入れたスライドを人数分用意して、クラスで共同編集にするだけ。子どもたちが自分の1枚に同時に書きこみ、全員の考えが一度に見えるようになります。\n\nやることは4つ\n① 番号と名前の1枚を人数分用意する\n② 共有 → 一般的なアクセスを学校の組織にして、編集者にする(リンクはClassroomのストリームなどで配る)\n③ 子どもが自分の番号のスライドに同時に書きこむ\n④ 左下のボタンで一覧表示にする\n\n特別な権限はいりません。Education Fundamentals のままで使えます。\nほかの子のスライドを消してしまっても、右上の時計アイコン(変更履歴)から前の版に戻せます。\n手が止まっている子にも、一覧ならすぐ気づけます。\n集める時間を、声をかける時間に。\n保存して、次の授業で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスライド",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 31,
+      "cover": "assets/covers/02.jpg",
+      "youtube_id": null,
+      "video_file": "第02回_1人1枚スライド_video.mp4",
+      "drive": {
+        "folder_id": "14xg7qCXme2QEScC24kEkv9rBDXe4Mb0z",
+        "video_id": "1pURRRFGafCyskdHUwRP-VJZhYIXLrrlr",
+        "video_v_id": "1H1d8fnvBFqbx0SJkbypU9N2WiRcmYYnG"
+      },
+      "cover_src_modified": "2026-10-08T14:49:40.105Z"
+    },
+    {
+      "id": "03",
+      "no": 3,
+      "slug": "チェックボックス",
+      "title": "提出物チェックは押すだけ",
+      "series": "基本編",
+      "part": "p1",
+      "apps": [
+        "スプレッドシート"
+      ],
+      "description": "提出物を集めながら、名簿に○を書いて、あとで数えて。地味に時間がかかりますよね。\nスプレッドシートのチェックボックスなら、出した子をクリックするだけで記録が終わります。\n\nやることは4つ\n① 提出欄をまとめて選ぶ\n② 挿入 → チェックボックス\n③ 出した子をクリック\n④ 提出人数は =COUNTIF(C2:C11,TRUE) で自動で数える\n\nチェックボックスを作るのはパソコンのブラウザで。作っておけば、iPadのアプリでもチェックのオン・オフができます。\n特別な設定はいらず、Education Fundamentals でもそのまま使えます。\n記録は一瞬で終わらせて、目は子どもに向けたい。\n保存して、次の提出日に試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスプレッドシート",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 31,
+      "cover": "assets/covers/03.jpg",
+      "youtube_id": null,
+      "video_file": "第03回_チェックボックス_video.mp4",
+      "drive": {
+        "folder_id": "1401sAPzR-8XUa_FDQvFpEWqnWs4fNdL8",
+        "video_id": "1x0P9IAv5SmRMUWRAuy3jOE-BqwoyKiDB",
+        "video_v_id": "1BiwO0hzA96G7p0jyN7yNfhD1Z4I6xou_"
+      },
+      "cover_src_modified": "2026-10-08T14:45:08.919Z"
+    },
+    {
+      "id": "04",
+      "no": 4,
+      "slug": "各生徒にコピー",
+      "title": "Classroomで1人1枚ずつ自動で配る",
+      "series": "基本編",
+      "part": "p1",
+      "apps": [
+        "Classroom"
+      ],
+      "description": "ワークシートを人数分コピーして、一人ずつ名前を付けて配る。それだけで放課後が終わってしまう日はありませんか。\nClassroom で課題にファイルを添付するとき、各生徒にコピーを作成 を選ぶだけで、子ども一人ひとりの名前が付いたコピーが自動で配られます。\n\nやることは4つ\n① 授業 → 作成 → 課題\n② タイトルを入れて、ドライブからワークシートを添付\n③ 添付ファイルの横の▾で 各生徒にコピーを作成 を選ぶ\n④ 割り当て を押す\n\n各生徒にコピーを作成 が選べるのは、割り当て(投稿)の前だけです。あとから切り替えられないので、押す前にもう一度確認を。\n使えるのはドキュメント・スプレッドシート・スライドなどの Google ファイル。Education Fundamentals の標準機能で、パソコンでも iPad のアプリでも設定できます。\n後日紹介する URL の末尾を copy にする方法は Classroom 以外向け。Classroom で配るなら、こちらが公式の方法です。\n\n配る手間は、子どもと話す時間に。\n保存して、次の配布で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GoogleClassroom",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/04.jpg",
+      "youtube_id": null,
+      "video_file": "第04回_各生徒にコピー_video.mp4",
+      "drive": {
+        "folder_id": "1IOby-_FRI5kfpaW0CRLJZUc3tpW0qfxl",
+        "video_id": "10S725Wf4MetRQmuh9kjH559kPeFco6vT",
+        "video_v_id": "1HWnCY_f1hV4svT5p1otuDszT11fvQhFR"
+      },
+      "cover_src_modified": "2026-10-08T15:00:14.886Z"
+    },
+    {
+      "id": "05",
+      "no": 5,
+      "slug": "テストで自動採点",
+      "title": "小テストの丸つけ、自動で終わる",
+      "series": "基本編",
+      "part": "p1",
+      "apps": [
+        "フォーム"
+      ],
+      "description": "漢字の小テスト、集めて、丸をつけて、点数を書いて。気づけば放課後の30分がなくなっていませんか。\nGoogleフォームのテストモードなら、子どもが送信した瞬間に点数がつきます。平均や点数の分布、まちがいの多かった問題もすぐに見られます。\n\nやることは4つ\n① 設定タブを開く\n② テストにする をオン\n③ 1問目の 解答集を作成 を押す\n④ 正解を選び、点数を入れて完了\n\n2問目からも同じように、解答集で正解と点数を決めておきます。\n特別な設定はいらず、Education Fundamentals でもそのまま使えます。\n丸つけの時間は、子どもと話す時間に。まちがいが多かった問題を、次の朝いっしょに確かめたいですね。\n保存して、次の小テストで試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleフォーム",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 31,
+      "cover": "assets/covers/05.jpg",
+      "youtube_id": null,
+      "video_file": "第05回_テストで自動採点_video.mp4",
+      "drive": {
+        "folder_id": "1kQ4VzO0yb5yRWxmxxT8GbOVjSE5hdplg",
+        "video_id": "11uOkaWesgAXMKWU7i1Xe6HyyTcDe3oGH",
+        "video_v_id": "1hjoEDwidP2WtesatpHLwIVk1ZTjP_ad3"
+      },
+      "cover_src_modified": "2026-10-08T15:05:37.058Z"
+    },
+    {
+      "id": "06",
+      "no": 6,
+      "slug": "提案モード",
+      "title": "作文の赤ペンは提案モードで",
+      "series": "基本編",
+      "part": "p1",
+      "apps": [
+        "ドキュメント"
+      ],
+      "description": "赤ペンで真っ赤にした作文を、子どもが写して清書する。直しの理由までは、なかなか届きません。\nドキュメントの提案モードなら、元の字は取り消し線で残り、直した字が色つきで入ります。子どもは承認を押すだけで、自分の作文を自分で直せます。\n\nやることは3つ\n① 右上の編集 → 提案に切り替え\n② 直したい所をそのまま打ち直す\n③ 理由とひとことを返信に書く\n\n子どもが編集できるドキュメントで使います。Classroomの課題なら、提出後は返却してから子どもが承認します。\n提案はパソコンのブラウザで。承認はiPadのドキュメントアプリでもできます。\n特別な設定はいらず、Education Fundamentals でもそのまま使えます。\n赤ペンの時間を、子どもと話す時間に。\n保存して、次の作文で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleドキュメント",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/06.jpg",
+      "youtube_id": null,
+      "video_file": "第06回_提案モード_video.mp4",
+      "drive": {
+        "folder_id": "1IG-FGfVVg6pjVpQrmJ2gNUynR2vqOBuF",
+        "video_id": "1iigfFndu4WiMwBMH7pANsRqqoXpABrax",
+        "video_v_id": "1ND4yNmI3n7y3lIEEdk43iMd_N5z9oWp8"
+      },
+      "cover_src_modified": "2026-10-08T15:05:55.628Z"
+    },
+    {
+      "id": "07",
+      "no": 7,
+      "slug": "プルダウン",
+      "title": "評価の入力は選ぶだけ",
+      "series": "基本編",
+      "part": "p1",
+      "apps": [
+        "スプレッドシート"
+      ],
+      "description": "図工の評価、A・B・Cを1マスずつ打っていると、全角と半角が混ざったり、うっかり打ち間違えたりしませんか。\nスプレッドシートのプルダウンなら、セルの ▼ を押して選ぶだけ。打ち間違いがなくなり、表記もそろいます。\n\nやることは4つ\n① 評価欄をまとめて選ぶ\n② 挿入 → プルダウン\n③ 選択肢に A・B・C を入れる(色も付けられます)\n④ ▼ を押して選ぶだけ\n\nプルダウンを作るのはパソコンで。iPadでも、作ったプルダウンから選んで入力できます。\n特別な設定はいらず、Education Fundamentals でもそのまま使えます。\n出欠の 出席・欠席・遅刻 などにも同じやり方で使えます。\n入力の時間を、子どもを見る時間に。\n保存して、次の評価で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスプレッドシート",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/07.jpg",
+      "youtube_id": null,
+      "video_file": "第07回_プルダウン_video.mp4",
+      "drive": {
+        "folder_id": "15CSEIsXa9aRwdIGnH7wPV1gODVHXIdm8",
+        "video_id": "1swvfhMpoHN1YYcFFpBhrmcEIKMJY-n9p",
+        "video_v_id": "1RWrfIXNBNZMfJA46ggAKRriR2kGRmpQZ"
+      },
+      "cover_src_modified": "2026-10-08T15:10:44.817Z"
+    },
+    {
+      "id": "08",
+      "no": 8,
+      "slug": "限定公開コメント",
+      "title": "一人ひとりにそっと声をかける",
+      "series": "基本編",
+      "part": "p1",
+      "apps": [
+        "Classroom"
+      ],
+      "description": "提出物を見ていて、いいなと思った一言を、本当はその子にちゃんと伝えたい。でも授業中は全員の前になってしまうし、ノートに書くには時間が足りない。\nClassroom の限定公開コメントなら、その子にだけ届く言葉を、提出物を見たその場で返せます。\n\nやることは3つ\n① 生徒の提出物から一人を開く\n② 限定公開のコメント にひとこと書く\n③ 投稿 を押す\n\nコメントはその子の課題の画面に届き、ほかの子には見えません(同じクラスの先生どうしは見られます)。\n子どもからも返信できるので、みんなの前では言いにくい声も拾えます。\nほめる一言と、次の一歩を一緒に。投稿したあとは編集も削除もできないので、送る前に一度読み返してください。\nEducation Fundamentals の標準機能で、パソコンでも iPad のアプリでも使えます。\n\n一人ひとりへの声かけを、毎日少しずつ積み重ねていきたいですね。\n保存して、次の課題で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GoogleClassroom",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 30,
+      "cover": "assets/covers/08.jpg",
+      "youtube_id": null,
+      "video_file": "第08回_限定公開コメント_video.mp4",
+      "drive": {
+        "folder_id": "1dpHWMaBCtX1OM3NysbXVGKHMpG3NeB6h",
+        "video_id": "1TCdCj-AZAhup-lu_pBSdKdgkflUO18ri",
+        "video_v_id": "1q4htjYdw7SV2mXDcynN3tq_HpkMTXfq4"
+      },
+      "cover_src_modified": "2026-10-08T15:16:32.452Z"
+    },
+    {
+      "id": "09",
+      "no": 9,
+      "slug": "copy技",
+      "title": "URLを1語変えるだけでコピー配布",
+      "series": "基本編",
+      "part": "p2",
+      "apps": [
+        "ドライブ"
+      ],
+      "description": "共有したワークシートを、だれかが原本ごと書き換えてしまった。そんな経験はありませんか。\n共有リンクの末尾を copy に変えるだけで、開いた人には自動でコピーを作る画面が出ます。\n\nやることは3つ\n① リンクを閲覧者で共有\n② URLの末尾 edit 以降を copy に書き換える\n③ そのURLを子どもに配る\n\nドキュメントでもスプレッドシートでもスライドでも使えます。\nClassroom以外でも使えるので、学年だよりのひな形や校内研修の資料、他校の先生へのおすそわけにも便利です。\n配布のトラブル対応は、子どもと話す時間に。\n保存して、次の配布で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleドライブ",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 35,
+      "cover": "assets/covers/09.jpg",
+      "youtube_id": null,
+      "video_file": "第09回_copy技_video.mp4",
+      "drive": {
+        "folder_id": "1flYy7FYON7cwpN2DsKi58uuuZ2ynbNzW",
+        "video_id": "1cVIo0Afv2DX8B3IaEjPeksn2B-pSnTXp",
+        "video_v_id": "1snzcVMR6bU6aISrR830sXLx2Fhjx8ZnA"
+      },
+      "cover_src_modified": "2026-10-08T13:59:29.664Z"
+    },
+    {
+      "id": "10",
+      "no": 10,
+      "slug": "背景でワークシート",
+      "title": "画像を背景にして動かないワークシート",
+      "series": "基本編",
+      "part": "p2",
+      "apps": [
+        "スライド"
+      ],
+      "description": "ワークシートの画像をスライドに貼ると、子どもが触ったはずみでずれたり、消えたりしますよね。\n画像をスライドの背景にしてしまえば、クリックしても選択されず、枠はびくともしません。子どもは上にテキストボックスや付箋の図形をのせて書きこむだけです。\n\nやることは4つ\n① スライド → 背景を変更\n② 画像の横の 画像を選択\n③ ワークシートの画像を選んで 選択(パソコンの画像はアップロードから)\n④ 完了 を押す(全部のスライドにするなら テーマに追加)\n\n背景の設定は、パソコンのブラウザ版で行います。特別な権限はいらず、Education Fundamentals のままで使えます。\n画像はスライドと同じ横長(16:9)で作っておくと、ぴったり収まります。\nClassroom で 各生徒にコピーを作成 にして配れば、一人ひとりが自分のシートに書きこめます。\n何度使っても枠が崩れないので、直す時間を子どもと話す時間に。\n保存して、次の授業で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスライド",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 30,
+      "cover": "assets/covers/10.jpg",
+      "youtube_id": null,
+      "video_file": "第10回_背景でワークシート_video.mp4",
+      "drive": {
+        "folder_id": "1XeDcqg7Z7VborhQLNOFuL1ShmiI5Ujnl",
+        "video_id": "1F7jQQdhtqcQTpXFX1_LDmxD_u3HMwnJR",
+        "video_v_id": "1glWNuxmxJvVcZu-Q8hnyETRtf3iBLs_o"
+      },
+      "cover_src_modified": "2026-10-08T15:17:53.938Z"
+    },
+    {
+      "id": "11",
+      "no": 11,
+      "slug": "マスター編集",
+      "title": "マスター編集で学校テンプレート",
+      "series": "基本編",
+      "part": "p2",
+      "apps": [
+        "スライド"
+      ],
+      "description": "授業のたびにスライドを作ると、色も文字も毎回バラバラ。1枚ずつ飾りつけるのも、地味に時間がかかります。\nスライドのテーマを編集して、一番上のマスターを1回整えるだけ。全部のスライドに同じデザインが一度で反映され、新しく足したスライドも最初からそろった見た目になります。\n\nやることは4つ\n① スライド → テーマを編集\n② 左の一番上のマスターを選ぶ\n③ タイトルの文字の色を決める\n④ 図形の四角で色帯を置き、5年1組 などの文字を入れる\n終わったら右上の ✕ で閉じます。\n\nできたファイルは、ファイル → コピーを作成 で学年の先生に配れば、学年の共通テンプレートになります。組の名前はマスターの文字を書きかえるだけ。\nパソコンのブラウザ版で操作します。特別な設定はいらず、Education Fundamentals のままで使えます。\n整える時間を、授業を考える時間に。\n保存して、次の授業準備で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスライド",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/11.jpg",
+      "youtube_id": null,
+      "video_file": "第11回_マスター編集_video.mp4",
+      "drive": {
+        "folder_id": "1uupTANomsSSKQZHkPwSeELcT7VV6aroZ",
+        "video_id": "17yJeKOCTAZ32IuDUsOLxfuO9va22BNG7",
+        "video_v_id": "1MIcXebPlybRgJmeNgsw4nHpM-oo-TtOP"
+      },
+      "cover_src_modified": "2026-10-08T15:24:22.083Z"
+    },
+    {
+      "id": "12",
+      "no": 12,
+      "slug": "条件付き書式",
+      "title": "未提出だけ自動で赤く",
+      "series": "基本編",
+      "part": "p2",
+      "apps": [
+        "スプレッドシート"
+      ],
+      "description": "提出物のチェック表、出していない子を目で探していませんか。\nスプレッドシートの条件付き書式なら、空いているマスだけが自動で赤くなります。\n\nやることは4つ\n① 提出欄をまとめて選ぶ\n② 表示形式 → 条件付き書式\n③ 条件を 空白セル にする\n④ 色を赤にして完了\n\n出したら ○ を入れるだけで、赤は自動で消えます。\n特別な設定はいらず、Education Fundamentals でもそのまま使えます。\n探す時間を、声をかける時間に。\n保存して、次の提出物で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスプレッドシート",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 28,
+      "cover": "assets/covers/12.jpg",
+      "youtube_id": null,
+      "video_file": "第12回_条件付き書式_video.mp4",
+      "drive": {
+        "folder_id": "1qHom_8B-l9E4trSBopScwpVfnLY1mBg4",
+        "video_id": "1EndGzbSu6ftrbqGtQBvfjCa3bf_nVsFd",
+        "video_v_id": "1zI5EqtRldywLf1gQLYck6v8S50nHRIag"
+      },
+      "cover_src_modified": "2026-10-08T14:15:59.948Z"
+    },
+    {
+      "id": "13",
+      "no": 13,
+      "slug": "範囲の保護",
+      "title": "子どもに数式を消させない",
+      "series": "基本編",
+      "part": "p2",
+      "apps": [
+        "スプレッドシート"
+      ],
+      "description": "子どもが入力する共有の記録カード、気づいたら合計の数式が消えていて、放課後に直していませんか。\nスプレッドシートの範囲の保護を使えば、合計の列は先生だけが編集できるようになります。子どもが入力する欄は、これまでどおり使えます。\n\nやることは4つ\n① 合計の列を選ぶ\n② データ → シートと範囲を保護\n③ 権限を設定 → 自分のみ\n④ 完了 を押す\n\n子どもが合計を消そうとしても、注意が表示されて書き換えられません。\n保護の設定はパソコンのブラウザから行います(ファイルのオーナーか編集者が設定できます)。子どもには、ふだんどおり編集者として共有しておきます。\n特別な設定はいらず、Education Fundamentals でもそのまま使えます。\n直す時間を、子どもと話す時間に。\n保存して、次の記録カードで試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスプレッドシート",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/13.jpg",
+      "youtube_id": null,
+      "video_file": "第13回_範囲の保護_video.mp4",
+      "drive": {
+        "folder_id": "1_CEARNtViXYlLtNKu3EMcka26e3Tan9u",
+        "video_id": "17VzZPvx0c6RVB5SSI72us5dwoYvm0ksY",
+        "video_v_id": "1dTsFjXex9PYvWSfuR8lO21S-1kXyembN"
+      },
+      "cover_src_modified": "2026-10-08T15:28:50.998Z"
+    },
+    {
+      "id": "14",
+      "no": 14,
+      "slug": "固定とフィルタ表示",
+      "title": "90人の名簿も見出しは上に",
+      "series": "基本編",
+      "part": "p2",
+      "apps": [
+        "スプレッドシート"
+      ],
+      "description": "学年の名簿を下までスクロールしたら、何の列だったか分からなくなる。そんな小さなストレスを毎日くり返していませんか。\n1行目を固定すれば見出しはずっと上に残り、フィルタ表示を使えば自分の画面だけで1組の子だけに絞れます。\n\nやることは4つ\n① 表示 → 固定 → 1 行\n② データ → フィルタビューを作成\n③ 組の列で 1組だけにしぼる\n④ ビューを保存 で次も使える\n\nフィルタ表示の絞り込みは自分の画面だけに効くので、学年で共有している名簿でも、ほかの先生の画面はいつもの名簿のままです。\nフィルタ表示はパソコンのブラウザで使う機能で、iPad・スマホのアプリでは使えません。閲覧だけの権限だと、その場限りの一時的な表示になり保存はされません。\n名簿の中で子どもを探す時間を、子どもを見る時間に。\n保存して、次の名簿づくりで試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスプレッドシート",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 31,
+      "cover": "assets/covers/14.jpg",
+      "youtube_id": null,
+      "video_file": "第14回_固定とフィルタ表示_video.mp4",
+      "drive": {
+        "folder_id": "1VXy0041dglnwXb_QSRtgHU8gl-nhpJ1s",
+        "video_id": "1CEHX5nxZ7arRl5CPggnVc4CvXF0rODfj",
+        "video_v_id": "1pv8RipmmX9yfRc-k4DHTXu_0UQaNkuv3"
+      },
+      "cover_src_modified": "2026-10-08T15:32:57.122Z"
+    },
+    {
+      "id": "15",
+      "no": 15,
+      "slug": "アット入力",
+      "title": "@ だけで議事メモが整う",
+      "series": "基本編",
+      "part": "p2",
+      "apps": [
+        "ドキュメント"
+      ],
+      "description": "学年会のメモ、日付を打って、チェック欄を作って、資料のリンクを貼って。書式のボタンを探しているうちに話が進んでしまいます。\nドキュメントなら、本文で @ を打つだけ。出てきた候補から、日付もチェックリストもドライブのファイルも、その場で差し込めます。\n\nやることは3つ\n① @today で今日の日付\n② @チェックリスト で ☐ の一覧\n③ @ファイル名 で資料を差し込む\n\nチェックを入れると取り消し線が付くので、終わった仕事がひと目で分かります。ファイルはカーソルを当てるだけで、開かずに中身を確かめられます。\nパソコンのブラウザで使えます。ファイルを見てもらうには、そのファイルも学年の先生に共有しておいてください。\n特別な設定はいらず、Education Fundamentals でもそのまま使えます。\n書類の時間を、子どもと過ごす時間に。\n保存して、次の学年会で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleドキュメント",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/15.jpg",
+      "youtube_id": null,
+      "video_file": "第15回_アット入力_video.mp4",
+      "drive": {
+        "folder_id": "1fNyhZsYMjeXo_RO_uQD-NN2c07gVCsxm",
+        "video_id": "1IjMsgVlCNVC-eQc8IU9g5dAdiblWK3EA",
+        "video_v_id": "1UGy5alcVwSzVka00huuLZ6tNNtmqtALJ"
+      },
+      "cover_src_modified": "2026-10-08T15:36:23.520Z"
+    },
+    {
+      "id": "16",
+      "no": 16,
+      "slug": "コメントで割り当て",
+      "title": "校内の分担は@で割り当て",
+      "series": "基本編",
+      "part": "p2",
+      "apps": [
+        "ドキュメント"
+      ],
+      "description": "あの準備、誰が担当だったっけ。職員室で聞いて回ったり、確認のメッセージを送ったり。行事の前ほど、そんな連絡が増えていきます。\nドキュメントのコメントで@を使えば、その行の担当をその場で割り当てられます。相手にはメールで通知が届き、誰が何を担当しているかが文書の中で見えるようになります。\n\nやることは3つ\n① 担当を決めたい行を選んでコメント\n② @と打って先生を選ぶ\n③ ○○先生に割り当て にチェックして、割り当て を押す\n\n終わったら、担当の先生がコメントの完了アイコンを押せば片づきます。\n学校のアカウント(Education Fundamentals でも可)で、パソコンのブラウザから使えます。相手の先生とは文書を共有しておいてください。\n確認の連絡を減らして、その分を子どもと過ごす時間に。\n保存して、次の行事準備で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleドキュメント",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/16.jpg",
+      "youtube_id": null,
+      "video_file": "第16回_コメントで割り当て_video.mp4",
+      "drive": {
+        "folder_id": "1jjO_MLkv1AD--loeGLiJFa7H4Q6g8Ku5",
+        "video_id": "1ZnecgsTXQahehWLSvp0FhMerAV5LehFy",
+        "video_v_id": "1HgsWmG03PiW9rhZJNfsCXaqm-m5k5IBe"
+      },
+      "cover_src_modified": "2026-10-08T15:40:33.035Z"
+    },
+    {
+      "id": "17",
+      "no": 17,
+      "slug": "投稿を再利用",
+      "title": "去年の課題を一瞬で再現",
+      "series": "基本編",
+      "part": "p2",
+      "apps": [
+        "Classroom"
+      ],
+      "description": "林間学校が近づくと、去年のしおりの感想どこに置いたかな…とドライブを探し回るところから始まっていませんか。\nClassroom の 投稿を再利用 なら、去年のクラスの課題を、タイトルも説明も添付ファイルもそのままの状態で今年のクラスに呼び出せます。\n\nやることは4つ\n① 授業 → 作成 → 投稿を再利用\n② 去年のクラスを選び、使いたい課題を選ぶ\n③ すべての添付ファイルの新しいコピーを作成する にチェックして 再利用\n④ 期限だけ今年の日付に直して 割り当て\n\n③のチェックを入れると、添付ファイルが今年のクラスのドライブ フォルダに新しく複製されます。去年のクラスと同じファイルを共有せずにすむので、別のクラスで使うときはチェックがおすすめです。\n元の課題を特定の子だけに出していても、再利用すると最初は全員が対象になります。割り当ての前に確認を。\nEducation Fundamentals の標準機能です。動画はパソコンの画面ですが、iPad のアプリでもできます(ボタンの見た目は少し違います)。\n\n準備の時間は、子どもと向き合う時間に。\n保存して、次の行事で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GoogleClassroom",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 31,
+      "cover": "assets/covers/17.jpg",
+      "youtube_id": null,
+      "video_file": "第17回_投稿を再利用_video.mp4",
+      "drive": {
+        "folder_id": "1Am1PrsuBUNkSMSFROSThqleyZ9aHmQLx",
+        "video_id": "1fM3nogaK14t-9EiKc5O_6zqgeU7Ohrpj",
+        "video_v_id": "1ztuYgK6Ys6jmcuoiSKjthR5okjJn5Pog"
+      },
+      "cover_src_modified": "2026-10-08T15:45:29.990Z"
+    },
+    {
+      "id": "18",
+      "no": 18,
+      "slug": "予約投稿",
+      "title": "朝の連絡は前日に仕込む",
+      "series": "基本編",
+      "part": "p2",
+      "apps": [
+        "Classroom"
+      ],
+      "description": "朝は子どもが登校してくる前から、電話や打ち合わせで手が離せない。持ち物の連絡を流し忘れて、あっと思うことはありませんか。\nClassroom の予約投稿(予定を設定)を使えば、前日の放課後に書いたお知らせを、翌朝の決めた時刻に自動でストリームへ届けられます。\n\nやることは4つ\n① ストリームで、クラスへの連絡事項を入力 からお知らせを書く\n② 投稿 の横の ▾ から 予定を設定\n③ 日付と時刻を選ぶ(時刻は午後が初期設定なので、朝なら午前を選ぶ)\n④ 予定を設定 を押す\n\n予定したお知らせは、ストリーム上部の 保存済みのお知らせ で確かめたり、直したりできます。\n投稿は予定の時刻から最長5分ほど遅れることがあります。\n手順はパソコンのブラウザ版です。iPad のアプリでは ⋮ から 予定を設定 を選びます。\n課題も、割り当て の横の ▾ から同じように予約できます。Education Fundamentals の標準機能です。\n\n朝の時間は、子どもを迎える時間に。\n保存して、明日の連絡で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GoogleClassroom",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/18.jpg",
+      "youtube_id": null,
+      "video_file": "第18回_予約投稿_video.mp4",
+      "drive": {
+        "folder_id": "1ofP_PrZQVcGbjNX-450Xgnmwi1nFZhR9",
+        "video_id": "1U2xWdYq-UpzYKH732Ip713sT7kVVAnN8",
+        "video_v_id": "1qoMrQO7yAv0eAnHPL6H38_ZiII2f7NJx"
+      },
+      "cover_src_modified": "2026-10-08T15:49:35.829Z"
+    },
+    {
+      "id": "19",
+      "no": 19,
+      "slug": "思考ツール",
+      "title": "思考ツールの型をスライドでつくる",
+      "series": "基本編",
+      "part": "p3",
+      "apps": [
+        "スライド"
+      ],
+      "description": "比べて考える授業のたびに、ベン図やYチャートを黒板やプリントに書き直していませんか。\nGoogle スライドなら、図形と線だけで思考ツールの型が1枚でつくれます。一度つくれば、いつでもその1枚から始められます。\n\nベン図は4つ\n① 挿入 → 図形 → 図形 → 楕円 をドラッグして描く\n② 塗りつぶしの色 → カスタム の ＋ で、透明度を下げて半透明に\n③ Ctrl+D で複製して、右にずらして重ねる(見出しはテキストボックスで)\n④ 全部選んで(Ctrl+A)配置 → グループ化\n\nYチャートは、四角の図形の中に 挿入 → 線 → 線 で3本ひくだけです。\n\nたとえば5年 社会で、米づくりと野菜づくりを比べるときに。子どもは黄色い付箋の図形に考えを書き、ちがうところは左右に、にているところは真ん中に置いていきます。並べて動かしながら、自分の考えが整理されていきます。\n\nグループ化すると枠がバラバラになりませんが、スライドには枠をロックする機能はありません。しっかり固定したいときは、枠を背景やテーマ(マスター)に置く方法もあります。\n配るときは ファイル → コピーを作成、Classroom なら課題で 各生徒にコピーを作成 にすれば、一人1枚ずつ届きます。\n操作はパソコンのブラウザ版です。Education Fundamentals の標準機能だけでできます。\nつくる手間を、子どもの考えを見とる時間に。\n保存して、次の授業で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスライド",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/19.jpg",
+      "youtube_id": null,
+      "video_file": "第19回_思考ツール_video.mp4",
+      "drive": {
+        "folder_id": "1IGsCWK9FC6K3sqcgU2dYrKOkwN2nuqvD",
+        "video_id": "1rFUb8yHFOpkJZcpUfsmc9Y78aR6QjkBA",
+        "video_v_id": "1YVR6S_T3lRImii_MoHhHnPiHPXQqhCkU"
+      },
+      "cover_src_modified": "2026-10-08T16:04:29.935Z"
+    },
+    {
+      "id": "20",
+      "no": 20,
+      "slug": "自動字幕で発音",
+      "title": "スライドの自動字幕で英語の発音チェック",
+      "series": "基本編",
+      "part": "p3",
+      "apps": [
+        "スライド"
+      ],
+      "description": "外国語の時間、自分の発音がちゃんと通じているのか、子どもはなかなか確かめられません。かといって、先生が全員の発音を1人ずつ聞くのは大変です。\nGoogle スライドのスライドショーで字幕をオンにすると、マイクに向かって話した英語が、そのまま画面の下に字幕で出ます。伝わらなかったときは別の単語になるので、子どもが自分で気づいて、何度でも言い直せます。\n\nやることは3つ\n① 英語のスライドを スライドショー で始める\n② 画面左下の その他(⋮)→ 字幕設定 → 字幕を切り替える(Ctrl+Shift+C でもオン。Mac は ⌘+Shift+C)\n③ マイクに向かって英語で話す(例: I want to be a vet.)\n\nパソコンのブラウザ(Chrome・Edge・Safari の最新版)と、マイクが必要です。字幕は英語のみ対応で、字幕は保存されません。組織で使えないときは、管理者に確認してください。\nAIの聞き取りは完ぺきではありません。字幕はあくまで練習の目安にして、最後は先生や友だちと伝え合う時間を大切にしたいです。\n発音の練習を、楽しむ時間に。\n保存して、次の外国語の授業で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスライド",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/20.jpg",
+      "youtube_id": null,
+      "video_file": "第20回_自動字幕で発音_video.mp4",
+      "drive": {
+        "folder_id": "1ZEW21gcaGyUpRTSRYpgQYGZ3UDqXZngg",
+        "video_id": "1xHwtEpa_4aqYPTWSq_CKvL7akWzTEuTT",
+        "video_v_id": "18ENQ2H7uY2I7y6mukcoKlL94Of53JXCV"
+      },
+      "cover_src_modified": "2026-10-08T16:01:54.419Z"
+    },
+    {
+      "id": "21",
+      "no": 21,
+      "slug": "RANDで席替え",
+      "title": "RANDで席替え・班分け",
+      "series": "基本編",
+      "part": "p3",
+      "apps": [
+        "スプレッドシート"
+      ],
+      "description": "席替えや班決めのたびに、くじを作って、配って、集めて。それだけで朝の時間が消えていませんか。\nスプレッドシートの RAND 関数を使えば、名簿の順番を一瞬でシャッフルできます。くじの準備はいりません。\n\nやることは4つ\n① 名簿の隣の列に =RAND() と入れる\n② セルの右下の青い四角を下までドラッグ\n③ 表を選んで データ → 範囲を並べ替え → 範囲の並べ替え詳細オプション\n④ 並べ替え条件を乱数の列にして 並べ替え\n\n上から4人ずつを1班、2班、3班とすれば、班分けも終わりです。気に入らなければ、何度でもやり直せます。\nRAND は編集するたびに数が変わります。決まったら乱数の列をコピーして、値のみ貼り付け(Ctrl+Shift+V、Mac は ⌘+Shift+V。編集 → 特殊貼り付け → 値のみ貼り付け でも可)で固定しておくと安心です。\n特別な設定はいらず、Education Fundamentals でもそのまま使えます。並べ替えの詳細オプションはパソコンのブラウザで操作します。\n\nただ、席は機械で決めても、配慮が要る子のことは最後に先生の目で調整します。\nくじの時間を、子どもたちの関わりを考える時間に。\n保存して、次の席替えで試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスプレッドシート",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/21.jpg",
+      "youtube_id": null,
+      "video_file": "第21回_RANDで席替え_video.mp4",
+      "drive": {
+        "folder_id": "1xAyuNuS60mJZ1KWJzNAbF1QXda1V0ZQI",
+        "video_id": "1yR7LJiEHu2S-r4x0egJoGCfxIBqvGhqW",
+        "video_v_id": "1hoKAFv8ETsPc8Jk5QmygvQRAeMhNMPZK"
+      },
+      "cover_src_modified": "2026-10-08T16:03:56.589Z"
+    },
+    {
+      "id": "22",
+      "no": 22,
+      "slug": "回答をスプシに",
+      "title": "ふりかえりを一覧で読む",
+      "series": "基本編",
+      "part": "p3",
+      "apps": [
+        "フォーム",
+        "スプレッドシート"
+      ],
+      "description": "毎時間のふりかえりをフォームで集めても、1人ずつ開いて読むのはなかなか大変です。\n回答をスプレッドシートにリンクしておけば、子どもの回答が1行に1人ずつ並び、新しい回答も下に自動で増えていきます。\n\nやることは3つ\n① フォームの 回答 タブを開く\n② スプレッドシートにリンク を押す\n③ 新しいスプレッドシートを作成 を選んで 作成\n\nボタンが見つからないときは、回答タブ右上のその他アイコンから 回答の送信先を選択 でも同じ画面が開きます。\n特別な設定はいらず、Education Fundamentals でもそのまま使えます。\n子どもの回答なので、共有は学校のアカウント内で。回答用のシートを開ける人も確かめておきましょう。\n全員のふりかえりが一覧で読めると、もやもやしている子にすぐ気づけます。読む時間は、次の授業でその子に声をかける時間に。\n保存して、次の授業で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleフォーム",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 30,
+      "cover": "assets/covers/22.jpg",
+      "youtube_id": null,
+      "video_file": "第22回_回答をスプシに_video.mp4",
+      "drive": {
+        "folder_id": "1AN3N19Or97lJlit-D23tgoi8dSfhZVVm",
+        "video_id": "1EDbjXAYXmyDj3WFJkBZs4hNsXDBPwUMR",
+        "video_v_id": "1C3cr-ckLl8NcH2z2Jsd5410UrlDqhsoq"
+      },
+      "cover_src_modified": "2026-10-08T16:14:58.127Z"
+    },
+    {
+      "id": "23",
+      "no": 23,
+      "slug": "質問で出口チケット",
+      "title": "授業の終わりに出口チケット",
+      "series": "基本編",
+      "part": "p3",
+      "apps": [
+        "Classroom"
+      ],
+      "description": "授業の最後に、今日どうだった?と聞くと、手を挙げるのはいつも同じ子。本当に聞きたいのは、まだ手を挙げられない子の一言だったりします。\nClassroom の 質問 を使えば、授業の終わり5分で、全員の一言を集められます。\n\nやることは4つ\n① 授業 → 作成 → 質問\n② 問いを書いて 記述式 を選ぶ(▾ から 選択式 にもできます)\n③ 生徒はクラスメイトに返信できます をオフ、生徒は解答を編集できます をオン\n④ 質問を作成 を押す\n\n返信をオフにすると、ほかの子の解答は見えません。友だちの答えに引っ張られず、自分の言葉で書けます。\n解答の編集は、採点する前までできます。点数を 採点なし にしておくと、子どもも気軽に書けます。\n先生は 生徒の解答 の画面で、全員の一言を一覧で見られます。まだよくわからない、の一言から、次の授業の入り方が決まります。\nEducation Fundamentals の標準機能です。動画はパソコンの画面ですが、子どもは iPad のアプリからも答えられます。\n\n終わりの5分を、一人ひとりの声を拾う時間に。\n保存して、次の授業で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GoogleClassroom",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 30,
+      "cover": "assets/covers/23.jpg",
+      "youtube_id": null,
+      "video_file": "第23回_質問で出口チケット_video.mp4",
+      "drive": {
+        "folder_id": "1cYST6Zlknqr-POH0aI80yUIqzfCmgV-Y",
+        "video_id": "1_AOfpMQh535NS2JNW9scKzUFwjAy2QGR",
+        "video_v_id": "1I4G_87zJgdrJZAQqlzqiZ8Afy3U9LZ7I"
+      },
+      "cover_src_modified": "2026-10-08T16:17:14.793Z"
+    },
+    {
+      "id": "24",
+      "no": 24,
+      "slug": "ルーブリック",
+      "title": "評価の見通しを子どもと共有",
+      "series": "基本編",
+      "part": "p3",
+      "apps": [
+        "Classroom"
+      ],
+      "description": "作文を返したあとに、ここをこうするとよかったね と伝えても、子どもにとってはもう終わった課題です。できれば書く前に、何ができたら よくできた なのかを手渡しておきたい。\nClassroom のルーブリックなら、評価基準とレベルを課題に付けておけるので、子どもは書き始める前から、どうすればよくなるかを確かめられます。\n\nやることは4つ\n① 課題の作成画面で ＋ルーブリック → ルーブリックを作成\n② 評価基準の名前を入れる(たとえば 理由が書けている、段落の組み立て)\n③ レベルごとに ポイント・レベルのタイトル・説明 を入れる(たとえば 3点 よくできた / 2点 できた / 1点 もう少し)\n④ 保存 → 割り当て\n\n採点は、採点ツールで評価基準ごとにレベルをクリックするだけ。合計点は自動で計算されます。\n点数をつけたくないときは、スコアを使用 をオフにすると、点数なしのルーブリックとして使えます。\nルーブリックを作るには、先に課題のタイトルを入れておく必要があります。採点を始めたあとは、ルーブリックの編集や削除はできません。\n一度作ったルーブリックは、次の課題で ルーブリックを再利用 から呼び出せます。\nEducation Fundamentals の標準機能です。作成と採点はパソコンのブラウザ(classroom.google.com)で行います。iPad のアプリでは、先生も子どももルーブリックの表示のみです。\n\nたとえば、返却したあとにルーブリックを一緒に見ながら、次はどのレベルをめざすかを子どもと話してみる。\n評価の説明を、子どもとの対話の時間に。\n保存して、次の作文で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GoogleClassroom",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 31,
+      "cover": "assets/covers/24.jpg",
+      "youtube_id": null,
+      "video_file": "第24回_ルーブリック_video.mp4",
+      "drive": {
+        "folder_id": "1BTnPWRRb1GzVv2iXo9zSl3yk8fGwPBI7",
+        "video_id": "19MUtZFgGYShX5yejH-zysT2mgOPwjikz",
+        "video_v_id": "1b6unocnnf1WdFQMh3Em5sfw3JBBm77gR"
+      },
+      "cover_src_modified": "2026-10-08T16:22:16.840Z"
+    },
+    {
+      "id": "25",
+      "no": 25,
+      "slug": "ドキュメントの翻訳",
+      "title": "お便りを多言語で届ける",
+      "series": "基本編",
+      "part": "p3",
+      "apps": [
+        "ドキュメント"
+      ],
+      "description": "日本語のお便りだけでは、内容が届きにくい家庭もある。でも、一枚ずつ翻訳を用意する時間はなかなか取れません。\nGoogle ドキュメントの ドキュメントを翻訳 を使うと、お便りを丸ごと別の言語に訳した新しいドキュメントができます。元のお便りはそのまま残ります。\n\nやることは4つ\n① ツール → ドキュメントを翻訳\n② 新しいドキュメントのタイトルを入れる\n③ 翻訳する言語を選ぶ\n④ 翻訳 を押す\n\nたとえば学年だよりや遠足のお知らせを、英語・ベトナム語・ポルトガル語など、それぞれの家庭で使う言語にして届けることができます。\n翻訳されたコピーは新しいウィンドウで開き、ドライブにも保存されます。翻訳はパソコンのブラウザで行います(スマホ・iPadのアプリでは使えません)。\nただし機械翻訳なので、日時や持ち物などの大事なところは、やさしい日本語を添えたり、その言語が分かる人に見てもらったりすると安心です。\nお便りの先にいる、一人ひとりの家庭とつながる時間に。\n保存して、次のお便りで試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleドキュメント",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/25.jpg",
+      "youtube_id": null,
+      "video_file": "第25回_ドキュメントの翻訳_video.mp4",
+      "drive": {
+        "folder_id": "1A0pEwc_wbsiE4E_v9y_wwFdfykxhDx5M",
+        "video_id": "1vK6qbVrmsn5dDQV7ZkNStvxJZOc66J9b",
+        "video_v_id": "16wRA6QX6k6O5W8zgFKToogxjKqNvZIco"
+      },
+      "cover_src_modified": "2026-10-08T16:22:51.995Z"
+    },
+    {
+      "id": "26",
+      "no": 26,
+      "slug": "Geminiプロンプトのコツ",
+      "title": "学級通信の下書き 頼み方は3つのコツ",
+      "series": "基本編",
+      "part": "p4",
+      "apps": [
+        "Gemini"
+      ],
+      "description": "Gemini に学級通信を頼んでみたら、どこかで読んだような文しか出てこなかった。そんなことはありませんか。\n頼み方に3つのコツを足すだけで、行事の日にちや持ち物まで入った下書きが返ってきます。\n\nコツは3つ\n① 役割と読む相手を書く(5年生の保護者に向けて学級通信を書く担任として)\n② 入れたい事実は箇条書きで渡す(行事・日時・持ち物・お願い)\n③ 長さと口調を伝える(400字くらい、やわらかい言葉で)\n\n子どもの名前や、学校名など個人が分かることは入れないでください。\nAIの文はあくまで下書きです。クラスの様子や子どもの姿は、先生が自分の言葉で書き足して仕上げます。\n\ngemini.google.com の Gemini アプリは、Education Fundamentals を含む Google Workspace for Education のすべてのエディションに無料で含まれています。ただし管理者がオン・オフを決められるので、学校のアカウントで使えるかは学校の管理者に確認してください。\n書き出しに悩む時間を、子どもの話を書く時間に。\n保存して、次の学級通信で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Gemini",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/26.jpg",
+      "youtube_id": null,
+      "video_file": "第26回_Geminiプロンプトのコツ_video.mp4",
+      "drive": {
+        "folder_id": "1A7duTlfoIDIGr4L1d_zqs6UZp1rHkdnO",
+        "video_id": "1zsfqisk0FmFIJFvAMBkochVNzAqUMnW4",
+        "video_v_id": "17Ll1AHxLyBwDUqnwu_hGeSWS5YbLz85c"
+      },
+      "cover_src_modified": "2026-10-08T16:26:31.212Z"
+    },
+    {
+      "id": "28",
+      "no": 28,
+      "slug": "ClassroomのGemini",
+      "title": "Classroomで小テストを生成",
+      "series": "基本編",
+      "part": "p4",
+      "apps": [
+        "Gemini",
+        "Classroom"
+      ],
+      "description": "単元の終わりの小テスト、毎回ゼロから問題を考えていませんか。\nClassroom の Gemini タブなら、学年と問題数と単元の中身を入れるだけで、学習目標と正解つきの問題の下書きが出てきます。そのままフォームにエクスポートできます。\n\nやることは4つ\n① Classroom の Gemini → テストを生成する\n② 対象学年・問題数・トピックを入れる(たとえば 5年 / 5問 / 小数のわり算)\n③ 学習目標を生成 → テストを生成\n④ エクスポート → フォームにエクスポート(ドキュメントにも出せます)\n\n同じ Gemini タブの ルーブリックを作成する から、評価の観点の下書きもつくれます(パソコン版)。\n\nAIの案は下書きです。問題の数値や言葉づかいがクラスに合うかは、先生が確認して直してから出してください。\n入れるのは学年と単元の中身だけ。子どもの名前や、個人が分かる情報は入れないでください。\n\nGemini in Classroom は Education Fundamentals を含む Google Workspace for Education の全エディションで使え、日本語にも対応しています。教員は既定でオンですが、管理者が年齢の設定で18歳以上としている人が対象で、管理者がオフにしていることもあります。Gemini タブが見当たらないときは、学校の管理者に相談してみてください。\nメニューの名前は更新で変わることがあります。\n\n問題をつくる時間を、子どもの考えを見る時間に。\n保存して、次の単元で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GoogleClassroom",
+        "#Gemini",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/28.jpg",
+      "youtube_id": null,
+      "video_file": "第28回_ClassroomのGemini_video.mp4",
+      "drive": {
+        "folder_id": "16OHUiIxgAhI6Z3qUeVObH5sEbMRkoSH9",
+        "video_id": "1w2mEkt5zvBewmvluecGUvdavnaAEY2mI",
+        "video_v_id": "19fKRtYLjPxDab9tzbrPO8VnHozjY_P81"
+      },
+      "cover_src_modified": "2026-10-08T16:30:06.049Z"
+    },
+    {
+      "id": "29",
+      "no": 29,
+      "slug": "資料と会議を要約",
+      "title": "Geminiで資料も会議も要約",
+      "series": "基本編",
+      "part": "p4",
+      "apps": [
+        "Gemini"
+      ],
+      "description": "分厚い会議資料、全部は読みきれないまま次の日を迎えていませんか。\nGemini アプリなら、資料のファイルや会議の録音をそのまま渡して、自分に必要なところだけをまとめてもらえます。\n\nやることは3つ\n① 渡す前に、個人情報が入っていないか確かめる\n② ＋ から資料や音声のファイルを渡す\n③ やってほしいことを1文で伝える(例: 担任が明日からやることを5つに)\n\nいちばん大事なのは①です。\n子どもの名前、成績や健康、家庭のこと、住所や電話番号。入っていたら消す、伏せる、そもそも渡さない。\n会議を録音するときは、参加する人みんなの了承をとってからにしましょう。\n音声の長さには、アカウントによって上限があります。\n\nまとめは便利ですが、まちがえることもあります。大事な日付や数字は、原文と見比べて先生が確認してください。\nGemini が使えるかどうかは、学校の管理者の設定しだいです。\n読む時間を、子どもと向き合う時間に。\n保存して、次の会議で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Gemini",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 34,
+      "cover": "assets/covers/29.jpg",
+      "youtube_id": null,
+      "video_file": "第29回_資料と会議を要約_video.mp4",
+      "drive": {
+        "folder_id": "1vGkefaH7cwmprjrMnW8ViH0qv4oj2RUS",
+        "video_id": "12_PoJssyJLcepOK_jCkorOHtTN04I6rj",
+        "video_v_id": "1OFJ9p-SFYUGoEYkv2nXZ6pZwueSXjBmM"
+      },
+      "cover_src_modified": "2026-10-26T14:58:03.336Z"
+    },
+    {
+      "id": "30",
+      "no": 30,
+      "slug": "NotebookLM",
+      "title": "研修資料を音声とクイズに",
+      "series": "基本編",
+      "part": "p4",
+      "apps": [
+        "Gemini Notebook"
+      ],
+      "description": "校内研修の資料、配られたまま最後まで読めていないことはありませんか。\nGemini Notebook(旧 NotebookLM)に資料を入れると、チャットで要点を聞けて、Studio から2人の対話形式の音声解説やクイズも作れます。読む時間がない資料も、聞いて・解いて確かめられます。\n\nやることは4つ\n① ソースを追加 で研修資料を入れる(PDF・ドキュメント・スライドなど)\n② チャットで 研修のポイントを3つに と質問する(答えに出典の番号が付く)\n③ Studio の 音声解説 を押す(作成には数分かかることもあります)\n④ Studio の クイズ を押して、理解を確かめる\n\nAIの答えは間違うこともあります。出典の番号から元の資料に戻って、内容は自分の目で確かめてください。\n子どもの名前や成績、所見など、子どもの個人情報はソースに入れないでください。\n\nGemini Notebook は Education Fundamentals を含む Google Workspace for Education のコアサービスで、日本語の音声解説にも対応しています。パソコンのブラウザで使えます。ただし管理者がオン・オフを決められるので、学校のアカウントで使えるかは学校の管理者に確認してください。\n\nこのシリーズは今回の第30回で最終回です。浮いた時間は、子どもと話す時間に。\n保存して、明日から1つだけ試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GeminiNotebook",
+        "#NotebookLM",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/30.jpg",
+      "youtube_id": null,
+      "video_file": "第30回_NotebookLM_video.mp4",
+      "drive": {
+        "folder_id": "1Gb6UQXroQijmM4jqZK_J7g0KJakIFoBf",
+        "video_id": "1qYGy6NjTaDR4M5OQJ3gIeiyPUYyzG-mT",
+        "video_v_id": "146q-6fNSxhAndxBn292Q5UN4sPImTsBI"
+      },
+      "cover_src_modified": "2026-10-08T16:41:45.520Z"
+    },
+    {
+      "id": "31",
+      "no": 31,
+      "slug": "指導要領解説に出典つき質問",
+      "title": "指導要領解説に出典つきで質問する",
+      "series": "応用編",
+      "part": "a1",
+      "apps": [
+        "Gemini Notebook"
+      ],
+      "description": "研究授業の指導案を書くとき、あの言葉は解説のどこに書いてあったっけ、と分厚いPDFをめくっていませんか。\nGemini Notebook(旧 NotebookLM)に学習指導要領解説を入れておくと、質問への答えに出典の番号がつきます。番号を押せば、もとの文章の該当箇所にとべます。\n\nやることは3つ\n① 文部科学省のサイトから解説のPDFを保存して、ソースを追加 → ファイルをアップロード\n② 知りたいことをチャットで質問する(例: 主体的・対話的で深い学びの授業改善のポイントを3つ教えて)\n③ 答えについた番号を押して、原文を確かめる\n\nソースに入れるのは、指導要領や答申のような公開された資料にしましょう。子どもの名前や成績など、個人の情報は入れません。\nAIのまとめは下書きです。指導案や研究紀要に引用するときは、必ず原文の言葉で確かめてください。\n学校のアカウントで使えるかどうかは、管理者の設定しだいです。画面の表示は更新で変わることがあります。\n\n調べる時間を、授業を考える時間に。\n保存して、次の研修準備で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GeminiNotebook",
+        "#NotebookLM",
+        "#学習指導要領",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 35,
+      "cover": "assets/covers/31.jpg",
+      "youtube_id": null,
+      "video_file": "第31回_指導要領解説に出典つき質問_video.mp4",
+      "drive": {
+        "folder_id": "1GcgBtCg86OML5X4rQfU13pzc6aYOBs2P",
+        "video_id": "1MVNH-8Kj3x_lchsgmJuLGEXifSxBa3Um",
+        "video_v_id": "1IceE8SUkSTlwH83wL95T6HinBwuvwOLO"
+      },
+      "cover_src_modified": "2026-10-31T08:06:58.621Z"
+    },
+    {
+      "id": "32",
+      "no": 32,
+      "slug": "答申をマインドマップに",
+      "title": "長い答申をマインドマップに",
+      "series": "応用編",
+      "part": "a1",
+      "apps": [
+        "Gemini Notebook"
+      ],
+      "description": "校内研修で答申や研究紀要を扱うとき、読みきる前に時間切れになっていませんか。\nGemini Notebook(旧 NotebookLM)なら、入れた資料からマインドマップを作ってくれます。何がどうつながっているのか、全体の骨組みがひと目でわかります。\n\nやることは3つ\n① 答申や研究紀要のPDFをソースに入れておく\n② Studio のマインドマップを押す\n③ 枝を押して広げ、気になる言葉を押すと、その言葉についてチャットで質問できる\n\n答えには出典の番号がつくので、もとの文章にすぐ戻れます。\n研修のはじめに図を映して、今日はこの枝の話をします、と全体像を共有するのもおすすめです。\n\nソースには公開された資料や、校内の研究資料を入れましょう。子どもの名前や成績など、個人の情報は入れません。\nAIのまとめは下書きです。研修資料や紀要に引用するときは、必ず原文で確かめてください。\n学校のアカウントで使えるかどうかは、管理者の設定しだいです。画面の表示は更新で変わることがあります。\n\n読む時間を、語り合う時間に。\n保存して、次の校内研修で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GeminiNotebook",
+        "#NotebookLM",
+        "#校内研修",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 33,
+      "cover": "assets/covers/32.jpg",
+      "youtube_id": null,
+      "video_file": "第32回_答申をマインドマップに_video.mp4",
+      "drive": {
+        "folder_id": "19mq_kVtqOwrZw-5CIaPdlmg9i2UYrGkR",
+        "video_id": "1Bcm96WrWbGeqiI8Gw4Pl60cKATx3K0Dk",
+        "video_v_id": "1BwoU3xu3_vbvJhlfKmOwqPNKkvRTJl-8"
+      },
+      "cover_src_modified": "2026-10-31T08:57:24.691Z"
+    },
+    {
+      "id": "33",
+      "no": 33,
+      "slug": "研修資料からスライド",
+      "title": "研修資料からスライドの下書き",
+      "series": "応用編",
+      "part": "a1",
+      "apps": [
+        "Gemini Notebook"
+      ],
+      "description": "校内研修のスライドづくり、気づけば夜までかかっていませんか。\nGemini Notebook(旧 NotebookLM)なら、研究計画や授業メモ、昨年度のスライドなどを入れておくだけで、スライドの下書きを作ってくれます。\n\nやることは3つ\n① 研修で使う資料をソースに入れる\n② Studio のスライド資料の ✎ を押して、注文を書く(例: 若手向けに、思考ツールの使い方を授業の例つきで)\n③ できたスライドを見て、直したいところを言葉で頼む(例: タイトルを短く、大きくして)\n\nできあがったスライドは、PDF や PowerPoint の形でダウンロードできます。\n話しながら見せたいときは、形式をプレゼンター用にするのもおすすめです。\n\nソースには、研究資料や公開された資料を入れましょう。子どもの名前や写真、成績など、個人の情報は入れません。\nAIの下書きは、そのまま使わずに中身を先生が確かめて、自分の学校の言葉に直してから使ってください。\n学校のアカウントで使えるかどうかは、管理者の設定しだいです。画面の表示は更新で変わることがあります。\n\n作る時間を、研修を練る時間に。\n保存して、次の研修準備で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GeminiNotebook",
+        "#NotebookLM",
+        "#校内研修",
+        "#思考ツール",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 33,
+      "cover": "assets/covers/33.jpg",
+      "youtube_id": null,
+      "video_file": "第33回_研修資料からスライド_video.mp4",
+      "drive": {
+        "folder_id": "1S-nK4yvrYUFL8Tv6zA32e_Dd5jIurH3s",
+        "video_id": "1L5A0TrFrsUZB7I0zjEKrvKlp6oOjMIlf",
+        "video_v_id": "1aFd7fHFLt_69aQcifxUGp1iZHLXP3q_X"
+      },
+      "cover_src_modified": "2026-10-31T09:04:06.265Z"
+    },
+    {
+      "id": "34",
+      "no": 34,
+      "slug": "単元をインフォグラフィック1枚に",
+      "title": "単元のまとめをインフォグラフィック1枚に",
+      "series": "応用編",
+      "part": "a1",
+      "apps": [
+        "Gemini Notebook"
+      ],
+      "description": "単元の流れを1枚で見せたい。掲示物を作りたいけれど、作る時間がない。そんなことはありませんか。\nGemini Notebook(旧 NotebookLM)なら、単元計画や板書のメモから、図とイラストでまとめた1枚を作ってくれます。\n\nやることは3つ\n① 単元計画や板書メモ、信頼できるウェブページをソースに入れる\n② Studio のインフォグラフィックの ✎ を押して、向き・詳しさ・作りたいものを伝える(例: 5年生向けに、米づくりの1年をイラストで)\n③ できた1枚をよく見て、まちがいがないか確かめてからダウンロードする\n\nAIが作る絵や文字は、まちがうことがあります。漢字や用語、順番、数字は、教科書と見比べて先生が必ず確認してください。おかしいところは作り直しを頼みましょう。\nできた1枚は、教室の掲示や、単元のはじめの見通し、ふりかえりのスライドに使えます。\n\nソースに子どもの名前や作品の写真など、個人の情報は入れません。\n学校のアカウントで使えるかどうかは、管理者の設定しだいです。画面の表示は更新で変わることがあります。\n\n作る時間を、子どもと話す時間に。\n保存して、次の単元で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GeminiNotebook",
+        "#NotebookLM",
+        "#小学校社会",
+        "#授業づくり",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 33,
+      "cover": "assets/covers/34.jpg",
+      "youtube_id": null,
+      "video_file": "第34回_単元をインフォグラフィック1枚に_video.mp4",
+      "drive": {
+        "folder_id": "1phFYmIKBZRKDuriq5SNU0L2M6ZCFlPs4",
+        "video_id": "1D8xfzUJCmytpiS8OFzq7JT3HcMWCXNfU",
+        "video_v_id": "1rO9zUztBBLnQPLdxFyfsCcZEcPvbvjO9"
+      },
+      "cover_src_modified": "2026-10-31T09:07:46.791Z"
+    },
+    {
+      "id": "35",
+      "no": 35,
+      "slug": "用語をフラッシュカードとテストに",
+      "title": "社会科の用語をフラッシュカードとテストに",
+      "series": "応用編",
+      "part": "a1",
+      "apps": [
+        "Gemini Notebook"
+      ],
+      "description": "単元で覚えたい用語の確認、毎回カードやプリントを手作りしていませんか。\nGemini Notebook(旧 NotebookLM)なら、単元の資料から、フラッシュカードと4択のテストを作ってくれます。\n\nやることは3つ\n① 単元計画や板書メモ、信頼できるウェブページをソースに入れる\n② Studio のフラッシュカードの ✎ を押して、枚数・難しさ・範囲を伝える(例: 5年生が覚えたい用語だけ、やさしい言葉で)\n③ テストを押せば、同じ資料から4択の問題もできる\n\nカードは押すと裏返って、答えが見られます。テストは答えを選ぶと、正解かどうかと説明が出ます。\n授業のはじめに大きく映して、前の時間のふりかえりにみんなで使うのがおすすめです。\n\n問題や答えがまちがっていないか、教科書と見比べて先生が必ず確かめてください。\nソースに子どもの名前や成績など、個人の情報は入れません。\n学校のアカウントで使えるかどうかは、管理者の設定しだいです。画面の表示は更新で変わることがあります。\n\n作る時間を、子どもを見る時間に。\n保存して、次の授業で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GeminiNotebook",
+        "#NotebookLM",
+        "#小学校社会",
+        "#授業づくり",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 37,
+      "cover": "assets/covers/35.jpg",
+      "youtube_id": null,
+      "video_file": "第35回_用語をフラッシュカードとテストに_video.mp4",
+      "drive": {
+        "folder_id": "13Vq9iuIDrfA_oyqSoeRDrgvpjH8tU2me",
+        "video_id": "1vRG_tFl6Z3UoCWu1dJasEBSkBvA8ixY0",
+        "video_v_id": "1ljn0fxTAK3Jcfl56148TApXjIcIwTbEI"
+      },
+      "cover_src_modified": "2026-10-31T09:13:37.393Z"
+    },
+    {
+      "id": "36",
+      "no": 36,
+      "slug": "調べ学習の資料をWeb検索で集める",
+      "title": "調べ学習の資料をウェブ検索で集める",
+      "series": "応用編",
+      "part": "a1",
+      "apps": [
+        "Gemini Notebook"
+      ],
+      "description": "調べ学習の前に、子どもに紹介できる資料を探していたら放課後が終わっていた。そんなことはありませんか。\nGemini Notebook(旧 NotebookLM)は、ソース欄からウェブを検索して、見つかったサイトをそのまま資料として取りこめます。\n\nやることは3つ\n① ソース欄の検索にテーマを入れて、ウェブを検索する(例: ごみのリサイクルのしくみ)\n② 見つかったサイトの出どころを見て、使うものだけにチェックを入れてインポートする\n③ 集めた資料に質問して、授業の下調べをする(例: 4年生がつまずきそうなポイントを3つ教えて)\n\nどのサイトを使うかを選ぶのは先生です。国や市のページ、データの出どころがはっきりしたページを選び、個人のまとめ記事などは外しておくと安心です。\n取りこんだサイトは、一度は先生が自分で開いて中身を確かめてください。答えについた番号から、もとのページにも戻れます。\nソースに子どもの名前など、個人の情報は入れません。\n学校のアカウントで使えるかどうかは、管理者の設定しだいです。画面の表示は更新で変わることがあります。\n\n探す時間を、問いを練る時間に。\n保存して、次の調べ学習で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GeminiNotebook",
+        "#NotebookLM",
+        "#調べ学習",
+        "#小学校社会",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 34,
+      "cover": "assets/covers/36.jpg",
+      "youtube_id": null,
+      "video_file": "第36回_調べ学習の資料をWeb検索で集める_video.mp4",
+      "drive": {
+        "folder_id": "1hzsJOtshOFCChROsy0Mx26UXry13g8Ii",
+        "video_id": "1ih3E_Qe3nb_7Hc9bICTtPgCsNpsklY5I",
+        "video_v_id": "1u-d7xmmwzzbd1WcIim3VUvMUkaQKwkEZ"
+      },
+      "cover_src_modified": "2026-10-31T09:17:35.784Z"
+    },
+    {
+      "id": "37",
+      "no": 37,
+      "slug": "ノートを子どもと共有",
+      "title": "Gemini Notebook のノートを子どもと共有する",
+      "series": "応用編",
+      "part": "a1",
+      "apps": [
+        "Gemini Notebook",
+        "Classroom"
+      ],
+      "description": "調べ学習で子どもにAIを使わせたい。でも、何を答えるか分からないのは心配。そんなときは、先生が選んだ資料だけが入ったノートを、Classroom で配る方法があります。\n\nやることは3つ\n① Classroom の授業タブで 作成 → Gemini Notebook を選び、作っておいたノートを添付する\n② 資料としてクラスに投稿する\n③ 子どもはノートを開いて、入っている資料について質問する\n\n子どもはソースを見ることと、チャットで質問すること、先生が作った音声解説などを見ることができます。ソースを足したり、Studio で新しく作ったりはできません。\n答えには出典の番号がつくので、どの資料に書いてあったかを子どもと一緒に確かめられます。\n\n使う前に、必ず学校の管理者の設定を確かめてください。Gemini Notebook が子どものアカウントで使えるか、何年生から使えるかは、学校や自治体の決まりしだいです。\nはじめて使う日は、名前や住所、自分や友だちのことは書かない、と子どもと約束してから始めましょう。\n画面の表示は更新で変わることがあります。\n\n安心して調べる時間を、子どもに。\n保存して、次の単元で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GeminiNotebook",
+        "#GoogleClassroom",
+        "#調べ学習",
+        "#情報モラル",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 38,
+      "cover": "assets/covers/37.jpg",
+      "youtube_id": null,
+      "video_file": "第37回_ノートを子どもと共有_video.mp4",
+      "drive": {
+        "folder_id": "1ptdlyGRgDvC20lxEmWvnM5JH12SVKv4U",
+        "video_id": "1XWxRg6sC8aqAZxsu0512vDgPg7Zoo8E4",
+        "video_v_id": "1JJTLhPY_2bCHRB_PN8vFzKDvDhsPdLOF"
+      },
+      "cover_src_modified": "2026-10-31T09:23:08.763Z"
+    },
+    {
+      "id": "38",
+      "no": 38,
+      "slug": "動画解説で保護者会の予習動画",
+      "title": "保護者会の説明を動画で予習してもらう",
+      "series": "応用編",
+      "part": "a1",
+      "apps": [
+        "Gemini Notebook"
+      ],
+      "description": "保護者会で伝えたいことが多くて、時間内に話しきれない。そんなことはありませんか。\nGemini Notebook(旧 NotebookLM)の動画解説を使うと、入れた資料の要点を、絵と声で説明する動画を作ってくれます。\n\nやることは3つ\n① 伝えたい資料をソースに入れる(例: タブレット持ち帰りのルール、学年だより)\n② Studio の動画解説の ✎ を押して、形式と絵のスタイル、伝えたいことを選ぶ(例: 保護者向けに、家でのタブレットの約束をやさしく)\n③ できた動画を最後まで見て、内容を確かめてからダウンロードする\n\n事前に見てもらっておけば、当日は説明よりも、保護者の方の声を聞く時間にできます。校内研修の予習動画にも使えます。\n\nAIの説明は、言い回しや中身がずれることがあります。声も画面も、先生が最後まで見て確かめてください。\nソースに子どもの名前や写真、個人の情報は入れません。\n保護者に配るときは、配り方や公開の範囲を学校の決まりにそって決めましょう。\n学校のアカウントで使えるかどうかは、管理者の設定しだいです。画面の表示は更新で変わることがあります。\n\n説明する時間を、語り合う時間に。\n保存して、次の保護者会で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GeminiNotebook",
+        "#NotebookLM",
+        "#保護者会",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 34,
+      "cover": "assets/covers/38.jpg",
+      "youtube_id": null,
+      "video_file": "第38回_動画解説で保護者会の予習動画_video.mp4",
+      "drive": {
+        "folder_id": "1krXKKzYIsdsn_ZRtjT-Kvl5PBQPDVucl",
+        "video_id": "1DbTZ01O2JP8rXqu3GCXb6UiyW1XNdqhs",
+        "video_v_id": "1Ols0VUIH8QiaZZ7FeTwXzRoV3SS8ehPE"
+      },
+      "cover_src_modified": "2026-10-31T09:28:03.487Z"
+    },
+    {
+      "id": "39",
+      "no": 39,
+      "slug": "GASとは_コードはGeminiに",
+      "title": "GASって何？ コードはGeminiに書かせる",
+      "series": "応用編",
+      "part": "a2",
+      "apps": [
+        "GAS",
+        "Gemini"
+      ],
+      "description": "提出チェック表の空欄に、毎日 未 と書きこんでいませんか。\nGAS(Google Apps Script)は、スプレッドシートやドキュメント、Gmail などのGoogleのアプリを、決めた手順で自動で動かすしくみです。学校のアカウントでも追加料金なしで使えます。\nコードが書けなくても大丈夫。やりたいことを Gemini に伝えれば、コードを書いてくれます。\n\nやることは3つ\n① スプレッドシートの 拡張機能 → Apps Script を開く\n② Gemini に、やりたいことを1文で伝える(例: C2:E7の空欄に、未 と赤字で入れるApps Scriptを書いて)\n③ できたコードを貼りつけて、保存して、実行する\n\nはじめて実行するときは、承認が必要です と出ます。自分で作ったコードであることを確かめてから、許可してください。\n\nGemini には、子どもの名前や成績などのデータは貼りません。どの列に何が入っているか、という説明だけで十分です。\nいきなり本番のシートで動かさず、コピーしたシートで試してから使いましょう。\n学校のアカウントで Apps Script が使えるかどうかは、管理者の設定しだいです。\n\n確認の時間を、声をかける時間に。\n保存して、次の放課後に試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GAS",
+        "#GoogleAppsScript",
+        "#Gemini",
+        "#スプレッドシート",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 40,
+      "cover": "assets/covers/39.jpg",
+      "youtube_id": null,
+      "video_file": "第39回_GASとは_コードはGeminiに_video.mp4",
+      "drive": {
+        "folder_id": "1FvBB9OZ20PdnAYbh7StPtSME2uHalRfx",
+        "video_id": "1nmf1PBH5x34QGhZNST5cb6W37ET_sE-T",
+        "video_v_id": "1K8NlWvZaqxtdcU5YUowlnhz4WI2fnm7M"
+      },
+      "cover_src_modified": "2026-10-31T09:35:30.590Z"
+    },
+    {
+      "id": "40",
+      "no": 40,
+      "slug": "名簿からワークシート一括作成",
+      "title": "名簿から一人ずつワークシートを作る",
+      "series": "応用編",
+      "part": "a2",
+      "apps": [
+        "GAS",
+        "スプレッドシート",
+        "ドキュメント"
+      ],
+      "description": "名前入りのふりかえりシート、人数分コピーして、一枚ずつ名前を打ちこんでいませんか。\nGAS(Google Apps Script)を使えば、名簿の人数分だけドキュメントをコピーして、名前を入れるところまで一気にできます。\n\nやることは3つ\n① ドキュメントでひな形を作り、名前を入れる所に《名前》と書いておく\n② 名簿のスプレッドシートで 拡張機能 → Apps Script を開き、Gemini にコードを書いてもらう(例: 名簿の名前ごとに、ひな形をコピーして《名前》を置きかえるApps Scriptを書いて)\n③ ひな形と保存先フォルダのIDを自分のものに書きかえて、実行する\n\nIDは、ドキュメントやフォルダを開いたときのURLの中にある、長い英数字の部分です。\nできたシートは、Classroom で一人ずつに配ったり、印刷したりして使えます。\n\nはじめは名簿を2〜3人分にして試し、うまくいくのを確かめてから全員分で動かしましょう。\nGemini には、子どもの名前などのデータは貼りません。名簿のスプレッドシートは、学校の決まりにそって管理してください。\n学校のアカウントで Apps Script が使えるかどうかは、管理者の設定しだいです。\n\n準備の時間を、子どもを見る時間に。\n保存して、次の単元準備で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GAS",
+        "#GoogleAppsScript",
+        "#Gemini",
+        "#業務改善",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 39,
+      "cover": "assets/covers/40.jpg",
+      "youtube_id": null,
+      "video_file": "第40回_名簿からワークシート一括作成_video.mp4",
+      "drive": {
+        "folder_id": "1V3Z9lwRqzlY0qvIcQlCvu7onL3CtuVsi",
+        "video_id": "1WGWaD90NIBsRXBAdLj6oHuTiJHuC4do7",
+        "video_v_id": "1XydgSeeBREl12oh9nxeD3wZmh6Ur-n6E"
+      },
+      "cover_src_modified": "2026-10-31T09:40:59.147Z"
+    },
+    {
+      "id": "41",
+      "no": 41,
+      "slug": "フォーム送信で自動返信と通知",
+      "title": "フォームに回答が来たら、自動で返信と通知",
+      "series": "応用編",
+      "part": "a2",
+      "apps": [
+        "GAS",
+        "フォーム"
+      ],
+      "description": "面談の希望調査や持ち物アンケート。回答が来たかどうか、何度もシートを開いて確かめていませんか。\nGAS(Google Apps Script)のトリガーを使うと、フォームに回答が届いた瞬間に、先生への通知と回答した人への受付メールを自動で送れます。\n\nやることは3つ\n① フォームの回答先のスプレッドシートで 拡張機能 → Apps Script を開き、Gemini が書いたコードを貼る\n② 左の時計マークのトリガー → トリガーを追加 → イベントの種類で フォーム送信時 を選んで保存\n③ フォームに回答が届くと、先生には中身つきの通知、回答した人には受付のメールが届く\n\n回答した人にメールを送るには、フォームの設定でメールアドレスを集めておく必要があります。\n新しい回答の通知だけなら、フォームの設定でもできます。GASを使うと、件名や文面を自分の学校に合わせて自由に作れます。\n\nいきなり保護者に送らず、まずは自分あてに送って、文面と宛先を確かめてから使いましょう。\n集める個人情報は必要なものだけにし、扱いは学校の決まりにそってください。\n学校のアカウントで Apps Script や外部へのメール送信が使えるかどうかは、管理者の設定しだいです。\n\n確認の時間を、子どもと話す時間に。\n保存して、次のアンケートで試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GAS",
+        "#GoogleAppsScript",
+        "#Googleフォーム",
+        "#業務改善",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 37,
+      "cover": "assets/covers/41.jpg",
+      "youtube_id": null,
+      "video_file": "第41回_フォーム送信で自動返信と通知_video.mp4",
+      "drive": {
+        "folder_id": "1TdIQ0gJVjLO5gZlE4TILjZeBUTt8hTrw",
+        "video_id": "14OMlRu5HnmGJo8FGkWzte0H8Eg2vK3CC",
+        "video_v_id": "1yQNZVW-7T7LHgbXEwSRvcapAa34SPZsP"
+      },
+      "cover_src_modified": "2026-10-31T09:51:20.634Z"
+    },
+    {
+      "id": "42",
+      "no": 42,
+      "slug": "毎朝リマインドをトリガーで",
+      "title": "今日のやることを毎朝メールで",
+      "series": "応用編",
+      "part": "a2",
+      "apps": [
+        "GAS",
+        "スプレッドシート"
+      ],
+      "description": "提出物のしめきりや、その日にやる事務仕事。うっかり忘れて、放課後にあわてていませんか。\nGAS(Google Apps Script)の時間で動くトリガーを使うと、スプレッドシートに書いたやることの中から、その日の分だけを毎朝メールで届けられます。\n\nやることは3つ\n① スプレッドシートに、日付とやることを書いておく\n② 拡張機能 → Apps Script を開き、Gemini が書いたコードを貼る(シートのIDと自分のアドレスを書きかえる)\n③ トリガーを追加 → イベントのソース 時間主導型 → 日付ベースのタイマー → 午前7時〜8時 を選んで保存\n\n時刻は1時間の幅で決まり、その間のどこかで届きます。\n予定が入っていない日は、メールは届きません。\n\nシートには、子どもの名前や家庭のことなど、個人の情報は書かないようにしましょう。\n学校のアカウントで Apps Script が使えるかどうかは、管理者の設定しだいです。\n\n思い出す手間を、子どもを思う時間に。\n保存して、明日の朝から試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GAS",
+        "#GoogleAppsScript",
+        "#スプレッドシート",
+        "#業務改善",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 34,
+      "cover": "assets/covers/42.jpg",
+      "youtube_id": null,
+      "video_file": "第42回_毎朝リマインドをトリガーで_video.mp4",
+      "drive": {
+        "folder_id": "1pM8Gxo3YlFGV1Jr9EnZkYr-i3nF1F_gE",
+        "video_id": "1B_5KyiWE5Sud4CfYwvDVBh6-xk0QRrhC",
+        "video_v_id": "1jboh28_MMc6xDkSSZoFbcaEpagO6eOsl"
+      },
+      "cover_src_modified": "2026-10-31T10:37:53.700Z"
+    },
+    {
+      "id": "43",
+      "no": 43,
+      "slug": "行事予定をカレンダーに一括登録",
+      "title": "行事予定をカレンダーに一括登録",
+      "series": "応用編",
+      "part": "a2",
+      "apps": [
+        "GAS",
+        "カレンダー"
+      ],
+      "description": "月の行事予定が出るたびに、Googleカレンダーへ1件ずつ手で入れていませんか。\nGAS(Google Apps Script)を使えば、スプレッドシートにまとめた行事を、まとめてカレンダーに登録できます。\n\nやることは3つ\n① スプレッドシートに、日付・行事・登録の3つの列を作り、行事を書く\n② 拡張機能 → Apps Script を開いて、Gemini が書いたコードを貼り、カレンダーのIDを入れる\n③ 実行すると、行事がまとめてカレンダーに入る\n\nカレンダーのIDは、Googleカレンダーの設定で、登録したいカレンダーを選び、カレンダーの統合という所にあります。\n登録した行には 済 がつくので、行事を書き足してもう一度動かしても、二重には登録されません。\n\n学年で共有しているカレンダーに入れると、学年の先生みんなに予定が届きます。まずは自分のカレンダーで試してから使いましょう。\n行事名に子どもの名前などの個人の情報は入れないようにしてください。\n学校のアカウントで Apps Script が使えるかどうかは、管理者の設定しだいです。\n\n入力の時間を、行事を練る時間に。\n保存して、来月の予定で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GAS",
+        "#GoogleAppsScript",
+        "#Googleカレンダー",
+        "#業務改善",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 31,
+      "cover": "assets/covers/43.jpg",
+      "youtube_id": null,
+      "video_file": "第43回_行事予定をカレンダーに一括登録_video.mp4",
+      "drive": {
+        "folder_id": "1qq_FLSxagd64DO4V8tarL9LX86v8vBxM",
+        "video_id": "1EwDA5i0OOl9uiMVEjBarp3A4NrYZvXz8",
+        "video_v_id": "1pjHjyYf5nP-YY17aJgFTmG5lCFxBfnby"
+      },
+      "cover_src_modified": "2026-10-31T10:49:30.303Z"
+    },
+    {
+      "id": "44",
+      "no": 44,
+      "slug": "ボタン1つで提出状況を集計",
+      "title": "ボタン1つで提出状況を集計",
+      "series": "応用編",
+      "part": "a2",
+      "apps": [
+        "GAS",
+        "スプレッドシート"
+      ],
+      "description": "宿題や音読カードの提出数、毎回チェック表を見ながら数えていませんか。\nGAS(Google Apps Script)を使うと、スプレッドシートのメニューに自分だけのボタンを作れます。押すだけで、提出数をまとめて数えてくれます。\n\nやることは3つ\n① 拡張機能 → Apps Script を開き、メニューを作るコード(onOpen)と、集計するコードを Gemini に書いてもらって貼る\n② シートを開き直すと、メニューに 便利ツール が増える\n③ 便利ツール → 提出状況を集計 を押すだけで、提出数がそろう\n\nGemini への頼み方の例: スプレッドシートに 便利ツール というメニューを作り、C2:E7の✓の数を列ごとに数えて9行目に書くApps Scriptを書いて\n\nこのシートをコピーすると、コードもいっしょにコピーされます。学年の先生にも同じボタンで使ってもらえます。\nはじめて押したときは承認が必要です。自分たちで作ったコードであることを確かめてから許可してください。\nGemini には、子どもの名前などのデータは貼りません。\n学校のアカウントで Apps Script が使えるかどうかは、管理者の設定しだいです。\n\n数える時間を、声をかける時間に。\n保存して、次の提出物で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GAS",
+        "#GoogleAppsScript",
+        "#スプレッドシート",
+        "#業務改善",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 31,
+      "cover": "assets/covers/44.jpg",
+      "youtube_id": null,
+      "video_file": "第44回_ボタン1つで提出状況を集計_video.mp4",
+      "drive": {
+        "folder_id": "10PN4ZpLLNGkcIF_URb8h5wvlLl-JEo3k",
+        "video_id": "1Ry5jUQ_4Yo83ZwVY6Ji8z_h7oxwlGNp_",
+        "video_v_id": "1d5EbkDWT1rkjE3i33mVp2SJxwZSMirIP"
+      },
+      "cover_src_modified": "2026-10-31T10:49:35.907Z"
+    },
+    {
+      "id": "45",
+      "no": 45,
+      "slug": "フォルダの中身を一覧表に",
+      "title": "ドライブのフォルダの中身を一覧表に",
+      "series": "応用編",
+      "part": "a2",
+      "apps": [
+        "GAS",
+        "ドライブ"
+      ],
+      "description": "学年の教材フォルダ、ファイルが増えすぎて、目当てのプリントを探すだけで一苦労。そんなことはありませんか。\nGAS(Google Apps Script)を使えば、フォルダの中のファイル名・更新日・リンクを、スプレッドシートに一覧で書き出せます。\n\nやることは3つ\n① 一覧にしたいフォルダを開き、URLの folders/ のうしろにある英数字(フォルダのID)をコピーする\n② 空のスプレッドシートで 拡張機能 → Apps Script を開き、Gemini が書いたコードを貼ってIDを入れ、実行する\n③ ファイル名・更新日・リンクが並んだ一覧ができる\n\nGemini への頼み方の例: ドライブのフォルダの中のファイル名、更新日、URLをスプレッドシートに一覧で書き出すApps Scriptを書いて\n\n一覧になれば、並べ替えやフィルタで目当てのファイルがすぐ見つかります。リンクからそのまま開くこともできます。\nファイルが増えたら、もう一度実行すれば一覧が新しくなります。\n\n子どもの作品や個人の情報が入ったフォルダを一覧にするときは、そのシートを誰と共有するかに気をつけてください。\n学校のアカウントで Apps Script が使えるかどうかは、管理者の設定しだいです。\n\n探す時間を、教材を磨く時間に。\n保存して、学年の共有フォルダで試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GAS",
+        "#GoogleAppsScript",
+        "#Googleドライブ",
+        "#業務改善",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 30,
+      "cover": "assets/covers/45.jpg",
+      "youtube_id": null,
+      "video_file": "第45回_フォルダの中身を一覧表に_video.mp4",
+      "drive": {
+        "folder_id": "1E2YwGfXGuoDZsFAI72n1V4C5d7iIBMMS",
+        "video_id": "1RVj6MxnQERXredXI6JRdwNZNBhdWOmoG",
+        "video_v_id": "16v_r4p9HEaVuooa8rAXzOIMIY28V8SY_"
+      },
+      "cover_src_modified": "2026-10-31T11:11:50.937Z"
+    },
+    {
+      "id": "46",
+      "no": 46,
+      "slug": "GASで小さなWebアプリ",
+      "title": "GASで小さなWebアプリを作る",
+      "series": "応用編",
+      "part": "a2",
+      "apps": [
+        "GAS"
+      ],
+      "description": "授業のふりかえり、紙で集めて、あとからパソコンに打ち直していませんか。\nGAS(Google Apps Script)を使うと、子どもが書いて送るだけの入力ページを作れます。送られた内容は、先生のスプレッドシートにそのまま記録されます。\n\nやることは3つ\n① Gemini に、入力ページ(index.html)と記録するコード(コード.gs)を作ってもらって、Apps Script に貼る\n② デプロイ → 新しいデプロイ → 種類でウェブアプリを選び、アクセスできるユーザーを学校の中だけにしてデプロイする\n③ できたURLを Classroom などで配る。子どもは開いて、書いて、送信するだけ\n\nGemini への頼み方の例: 出席番号、できたこと、自己評価の3つを入力して、スプレッドシートに1行ずつ記録するApps Scriptのウェブアプリを作って。HTMLも書いて\n\nアクセスできるユーザーは、全員 にせず、学校のドメイン内の人だけにしておきましょう。\n名前のかわりに出席番号にするなど、集める情報は必要なものだけにしてください。\nフォームでもできることですが、GASなら画面の言葉や見た目を、子どもに合わせて自由に作れます。\n学校のアカウントで Apps Script やウェブアプリの公開ができるかどうかは、管理者の設定しだいです。\n\n集める時間を、読む時間に。\n保存して、次の授業のふりかえりで試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GAS",
+        "#GoogleAppsScript",
+        "#ふりかえり",
+        "#授業づくり",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 38,
+      "cover": "assets/covers/46.jpg",
+      "youtube_id": null,
+      "video_file": "第46回_GASで小さなWebアプリ_video.mp4",
+      "drive": {
+        "folder_id": "17POqnatkoaZaGL8q-aKsC5cBszzdJmth",
+        "video_id": "1YdGf1JtGamN51qD-jHRz1oWFBf4MESa1",
+        "video_v_id": "1rMu4J3L5vuKNr_-tmLOAUcgAWhgssMNu"
+      },
+      "cover_src_modified": "2026-10-31T11:11:56.012Z"
+    },
+    {
+      "id": "47",
+      "no": 47,
+      "slug": "フォームのセクション分岐",
+      "title": "答えによって次の問題を変える フォームのセクション分岐",
+      "series": "応用編",
+      "part": "a3",
+      "apps": [
+        "フォーム"
+      ],
+      "description": "練習問題、クラス全員が同じ問題でいいのかな、と迷うことはありませんか。\nGoogleフォームのセクション分岐を使うと、子どもの答えによって、次に出る問題を変えられます。\n\nやることは3つ\n① 行き先になるセクションを作っておく(例: きほんの練習、チャレンジ問題)\n② 分かれ道にしたい質問の ⋮ → 回答に応じてセクションに移動 を選ぶ\n③ 選択肢ごとに、どのセクションに進むかを選ぶ\n\n子どもの画面では、選んだ答えによって次のページが変わります。\n自信がある子はチャレンジ問題へ、少し不安な子はきほんの練習へ。自分で選んで進めるので、自己調整のきっかけにもなります。\n戻るボタンで選び直せることも、はじめに伝えておきましょう。\n\nテストモードと組み合わせれば、それぞれの練習を自動で採点することもできます。\nフォームに子どもの名前を書かせるかどうかは、使い方に合わせて学校の決まりにそって決めてください。\n\n一人ひとりに合う練習を、もっと手軽に。\n保存して、次の練習問題で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleフォーム",
+        "#個別最適な学び",
+        "#授業づくり",
+        "#小学校算数",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/47.jpg",
+      "youtube_id": null,
+      "video_file": "第47回_フォームのセクション分岐_video.mp4",
+      "drive": {
+        "folder_id": "13Z0BQ_df6ooZzoIrwtxEiEad2EnGxat4",
+        "video_id": "1kAHS8TWLMd7OQtErQTbzDC7EW6GbkvPN",
+        "video_v_id": "1UWUbwUs0T0hAI0VevS5YJl_jeAf7V0KD"
+      },
+      "cover_src_modified": "2026-10-31T11:12:01.161Z"
+    },
+    {
+      "id": "48",
+      "no": 48,
+      "slug": "思考ツールスライドを班で共同編集",
+      "title": "思考ツールスライドを班で共同編集",
+      "series": "応用編",
+      "part": "a3",
+      "apps": [
+        "スライド"
+      ],
+      "description": "",
+      "hashtags": [],
+      "status": "in_progress",
+      "duration_sec": null,
+      "cover": null,
+      "youtube_id": null,
+      "video_file": null,
+      "drive": {
+        "folder_id": "1nnbCu8QEYY1x_KhTU6Vg0mTUG0YCtcQY",
+        "video_id": null,
+        "video_v_id": null
+      },
+      "cover_src_modified": null
+    },
+    {
+      "id": "49",
+      "no": 49,
+      "slug": "変更履歴で推敲を見とる",
+      "title": "変更履歴で推敲を見とる",
+      "series": "応用編",
+      "part": "a3",
+      "apps": [
+        "ドキュメント"
+      ],
+      "description": "",
+      "hashtags": [],
+      "status": "in_progress",
+      "duration_sec": null,
+      "cover": null,
+      "youtube_id": null,
+      "video_file": null,
+      "drive": {
+        "folder_id": "1QHIRVknXVGPg8Gm4VjGDgt6bekWLZZCL",
+        "video_id": null,
+        "video_v_id": null
+      },
+      "cover_src_modified": null
+    },
+    {
+      "id": "50",
+      "no": 50,
+      "slug": "マイマップで地域調べ",
+      "title": "マイマップで地域調べ",
+      "series": "応用編",
+      "part": "a3",
+      "apps": [
+        "マイマップ"
+      ],
+      "description": "",
+      "hashtags": [],
+      "status": "in_progress",
+      "duration_sec": null,
+      "cover": null,
+      "youtube_id": null,
+      "video_file": null,
+      "drive": {
+        "folder_id": "1NODSmm_aoUcmi0Ak2uDWOwfyNlXNPUoF",
+        "video_id": null,
+        "video_v_id": null
+      },
+      "cover_src_modified": null
+    },
+    {
+      "id": "51",
+      "no": 51,
+      "slug": "アンケート結果をスライドのグラフに",
+      "title": "アンケート結果をスライドのグラフに自動で",
+      "series": "応用編",
+      "part": "a3",
+      "apps": [
+        "フォーム",
+        "スライド"
+      ],
+      "description": "総合の時間のアンケート。回答が増えるたびに、集計してグラフを作り直し、スライドに貼り直していませんか。\nフォーム、スプレッドシート、スライドをつないでおくと、ボタン1つで最新のグラフにできます。\n\nやることは3つ\n① フォームの回答タブで、スプレッドシートにリンク を押す\n② スプレッドシートで集計して、挿入 → グラフ で棒グラフを作る\n③ スライドで 挿入 → グラフ → スプレッドシートから を選び、スプレッドシートにリンク をオンのまま貼る\n\n回答が増えると、スライドのグラフに 更新 のボタンが出ます。押すだけで最新の結果になります。\n授業の最初と最後でアンケートをとり、変化をその場でみんなで見る、という使い方もできます。\n\nアンケートは、名前を集めない形にしておくと、結果を安心して映せます。\nグラフにする前に、数字が正しく集計されているかを先生が確かめてください。\n\n集計の時間を、話し合う時間に。\n保存して、次の総合の時間で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスライド",
+        "#Googleフォーム",
+        "#SDGs",
+        "#総合的な学習の時間",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 31,
+      "cover": "assets/covers/51.jpg",
+      "youtube_id": null,
+      "video_file": "第51回_アンケート結果をスライドのグラフに_video.mp4",
+      "drive": {
+        "folder_id": "1u_2c4ENu1wIf0KKAc-Ly2U8OPtPwvhcy",
+        "video_id": "1jUqhp_-xd5BpQR4C1-oKnx1xb2zU8Z5P",
+        "video_v_id": "1ce1uRdZrD-vtc4athz8g39d5Lk3HOGyA"
+      },
+      "cover_src_modified": "2026-10-31T10:27:01.832Z"
+    },
+    {
+      "id": "52",
+      "no": 52,
+      "slug": "英語スピーキングを動画で提出",
+      "title": "英語のスピーキングを動画で提出",
+      "series": "応用編",
+      "part": "a3",
+      "apps": [
+        "Classroom"
+      ],
+      "description": "外国語のスピーキング。一人ずつ前に出て話してもらうと、全員分を聞くだけで授業が終わってしまう。そんなことはありませんか。\nGoogle Classroom の課題で動画を提出してもらうと、子どもは全員同時に話せて、先生はあとから一人ずつ聞いてコメントを返せます。\n\nやることは3つ\n① 課題で話すテーマを出す(例: Show and Tell: My Treasure。This is my 〇〇. I like it because 〜. を使う)\n② 子どもはタブレットの Classroom で、添付ファイルを追加 → カメラを使用 で録画して提出する\n③ 先生は採点ツールで再生して、限定公開コメントでひと言返す\n\n顔を映したくない子には、宝物だけを映して声で話してもいいよ、と選び方を用意しておくと安心です。\n何度でも撮り直せるので、子どもが自分の声を聞いて、言い直す練習にもなります。\n\n動画には子どもの顔や声が残ります。クラスの中だけで扱い、ダウンロードや共有の決まりを学校で確かめておきましょう。\nタブレットの種類やアプリの版によって、メニューの表示が少しちがうことがあります。\n\n聞く時間を、ひとりひとりに返す時間に。\n保存して、次の外国語の時間に試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GoogleClassroom",
+        "#小学校外国語",
+        "#英語教育",
+        "#スピーキング",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 35,
+      "cover": "assets/covers/52.jpg",
+      "youtube_id": null,
+      "video_file": "第52回_英語スピーキングを動画で提出_video.mp4",
+      "drive": {
+        "folder_id": "10JQWpWZJonpCy0RJhRdDizFPv5ZRNybS",
+        "video_id": "1phvPURy16B4XQdVKcUsPxrj7qW3erUQ6",
+        "video_v_id": "1S32YW0e5QNBGnrTLEw7iSBnojzqCsG7B"
+      },
+      "cover_src_modified": "2026-10-31T10:37:59.657Z"
+    },
+    {
+      "id": "53",
+      "no": 53,
+      "slug": "単元アプリをサイトに積み上げる",
+      "title": "単元の学習アプリをサイトに積み上げる",
+      "series": "応用編",
+      "part": "a3",
+      "apps": [
+        "サイト"
+      ],
+      "description": "自由進度で学ぶ時間。動画、練習アプリ、チャレンジ問題、ふりかえり。リンクがあちこちに散らばって、子どもが迷子になっていませんか。\nGoogleサイトで単元のページを1つ作り、そこに学習の道具をまとめて置くと、入り口が1つになります。\n\nやることは3つ\n① Googleサイトで単元のページを作り、STEPの順に並べる\n② 右の 挿入 → 埋め込む で、アプリのURLを入れて置く。フォームやスライド、YouTube もそのまま置ける\n③ 公開して、URLを Classroom で配る。子どもは自分のペースで進める\n\n番外編で紹介した、Gemini の Canvas からサイトにしたアプリも、ここに埋め込めます。\n単元が進むたびにページを足していけば、1年分の学びの入り口が1つのサイトにたまっていきます。\n\n公開の範囲は、学校のドメインの中だけにしておきましょう。\n子どもの名前や写真、作品など、個人の情報はサイトにのせないようにしてください。\n学校のアカウントでサイトの公開ができるかどうかは、管理者の設定しだいです。\n\n迷う時間を、学ぶ時間に。\n保存して、次の単元で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleサイト",
+        "#自由進度学習",
+        "#個別最適な学び",
+        "#授業づくり",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 33,
+      "cover": "assets/covers/53.jpg",
+      "youtube_id": null,
+      "video_file": "第53回_単元アプリをサイトに積み上げる_video.mp4",
+      "drive": {
+        "folder_id": "1QwpwEeh6mSXoXhL6C85ustKs7rUz4DrK",
+        "video_id": "1f9yIMZXHwxfD8RfBnSrB9SqvxAU58GYa",
+        "video_v_id": "1Y88vuqnlwXuFXXklFMw9tG4ct2sBuUQz"
+      },
+      "cover_src_modified": "2026-10-31T10:49:41.562Z"
+    },
+    {
+      "id": "54",
+      "no": 54,
+      "slug": "自己評価を色で見える化",
+      "title": "ふりかえりの自己評価を色で見える化",
+      "series": "応用編",
+      "part": "a3",
+      "apps": [
+        "スプレッドシート"
+      ],
+      "description": "毎時間のふりかえりで集めた自己評価。数字がならんだ表を、ながめるだけになっていませんか。\nスプレッドシートのカラースケールと SPARKLINE を使うと、クラス全体のようすと、一人ひとりの変化がひと目でわかります。\n\nやることは3つ\n① 自己評価を 1〜3 の数字で集める(フォームで集めてもOK)\n② 範囲を選んで、表示形式 → 条件付き書式 → カラースケール を選ぶ\n③ となりの列に =SPARKLINE(C2:J2) と入れて下にコピーし、変化を線にする\n\n色を見れば、どの時間でつまずいた子が多かったかがわかります。線を見れば、下がってきている子に早めに気づけます。\n気になる子がいたら、色や線だけで決めつけず、まずは話を聞いてみてください。\n\n自己評価の表は、成績にかかわる大切な情報です。共有する相手と範囲は、学校の決まりにそって管理しましょう。\n\n見る時間を、話を聞く時間に。\n保存して、次のふりかえりで試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#スプレッドシート",
+        "#ふりかえり",
+        "#自己調整学習",
+        "#授業づくり",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 32,
+      "cover": "assets/covers/54.jpg",
+      "youtube_id": null,
+      "video_file": "第54回_自己評価を色で見える化_video.mp4",
+      "drive": {
+        "folder_id": "108DNgAGO3Nbao_fvznJpiRwODMppYMa1",
+        "video_id": "1k_WrD_3bRDiBfk1WmSyG3wBERf0Mlgjv",
+        "video_v_id": "1hCRH3QwOl7wRwRYn02XEwgoKwrvQwP4D"
+      },
+      "cover_src_modified": "2026-10-31T10:49:52.491Z"
+    },
+    {
+      "id": "55",
+      "no": 55,
+      "slug": "英語スモールトークの台本",
+      "title": "英語のスモールトークを Gemini と台本づくり",
+      "series": "応用編",
+      "part": "a4",
+      "apps": [
+        "Gemini"
+      ],
+      "description": "外国語の授業のはじめのスモールトーク。毎時間となると、話題がネタ切れになっていませんか。\nGemini に、学年とねらいの表現を伝えると、担任とALTのやりとりの台本をすぐに作ってくれます。\n\nやることは3つ\n① ねらいの表現と学年を伝える(例: 小学5年の外国語。What do you want to be? を使った、担任とALTのスモールトークを1分で。子どもに問いかける所も入れて)\n② 子どもに合わせて注文を足す(例: もっと短く。5年生が知っている単語だけで)\n③ 自分の体験に入れかえて使う。共有とエクスポートからドキュメントにすれば、ALTとの打ち合わせにも使える\n\nスモールトークは、先生自身の本当の話が入るほど子どもに伝わります。台本はたたき台にして、自分の好きなものや子どもの頃の夢に入れかえてください。\n英語の表現が自然か、学年に合っているかは、先生やALTが必ず確かめましょう。\n\nGemini には、子どもの名前など個人の情報は入れません。\n学校のアカウントで Gemini が使えるかどうかは、管理者の設定しだいです。\n\n準備の時間を、子どもと話す時間に。\n保存して、次の外国語の時間に試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Gemini",
+        "#小学校外国語",
+        "#英語教育",
+        "#スモールトーク",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 36,
+      "cover": "assets/covers/55.jpg",
+      "youtube_id": null,
+      "video_file": "第55回_英語スモールトークの台本_video.mp4",
+      "drive": {
+        "folder_id": "1tyiSwxIBS9mFxa7hr3_FQJjYEdTncydg",
+        "video_id": "19y4DevyRNPa8gMwwwz3H6q3xjCsHb9JK",
+        "video_v_id": "16jKhNsbSgCgLQwV4SFPlYbq2oe1WJHC2"
+      },
+      "cover_src_modified": "2026-10-31T11:12:07.242Z"
+    },
+    {
+      "id": "56",
+      "no": 56,
+      "slug": "ClassroomのGeminiでルーブリック",
+      "title": "ルーブリックを Classroom の Gemini で",
+      "series": "応用編",
+      "part": "a4",
+      "apps": [
+        "Gemini",
+        "Classroom"
+      ],
+      "description": "作文や意見文の評価。ルーブリックをゼロから作るのは、時間がかかって大変ではありませんか。\nGoogle Classroom の課題作成画面では、Gemini がルーブリックのたたき台を作ってくれます。\n\nやることは3つ\n① 課題の説明を具体的に書く(学年、字数、ねらい、入れてほしい要素など)\n② ルーブリックの所から Gemini で生成を選ぶ\n③ 基準や言葉を、自分のクラスに合わせて先生が直してから追加する\n\n説明が具体的なほど、たたき台も具体的になります。\nできたルーブリックは、書く前に子どもにも見せて、めあてとして使うのがおすすめです。採点ツールでも、そのまま使えます。\n\nGemini in Classroom は、Google Workspace for Education のすべてのエディションで使えると案内されています。学校で使えるかどうかは、管理者の設定しだいです。画面の表示やボタンの名前は、更新で変わることがあります。\n課題の説明に、子どもの名前や作品など個人の情報は入れないようにしましょう。\n\n評価の準備を、子どもを見る時間に。\n保存して、次の作文の課題で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GoogleClassroom",
+        "#Gemini",
+        "#ルーブリック",
+        "#小学校国語",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 35,
+      "cover": "assets/covers/56.jpg",
+      "youtube_id": null,
+      "video_file": "第56回_ClassroomのGeminiでルーブリック_video.mp4",
+      "drive": {
+        "folder_id": "1nWJZBKLKNGbrXrseqXX2FG5qSEAuwWMI",
+        "video_id": "15Zq3LxMloPQGiAYn8jUmYmWfbsVtkIDR",
+        "video_v_id": "1ET65_JQ1mTZMyp6vSdBo_7obLCCaOyMn"
+      },
+      "cover_src_modified": "2026-10-31T11:12:13.223Z"
+    },
+    {
+      "id": "57",
+      "no": 57,
+      "slug": "Canvasでクイズゲーム",
+      "title": "Canvas で授業用クイズゲームを作る",
+      "series": "応用編",
+      "part": "a4",
+      "apps": [
+        "Gemini"
+      ],
+      "description": "単元の復習。プリントだけだと、なかなか盛り上がらない。そんなときは、Gemini の Canvas で、クラスで遊べるクイズゲームを作ってみませんか。\n\nやることは3つ\n① Gemini の入力欄の ツール → Canvas を選ぶ\n② 作りたいゲームを文章で伝える(例: 4年生向けの都道府県クイズゲームを作って。4択で10問。正解したら星が出て、最後に点数を出す)\n③ 右側のプレビューで遊んでみて、気になる所は言葉で直す(例: ボタンを大きく。漢字にふりがなをつけて)\n\nプログラミングの知識はいりません。何度でも作り直しを頼めます。\n授業のはじめに大きく映して、クラスみんなで答えるだけでも盛り上がります。\n\n問題と答えにまちがいがないか、必ず先生が確かめてください。\n子どもに配って使わせたいときは、番外編で紹介した Googleサイトへのエクスポートを使うと、子どもは Gemini を開かずに遊べます。\n学校のアカウントで Gemini や Canvas が使えるかどうかは、管理者の設定しだいです。\n\n作る時間を、子どもと遊ぶ時間に。\n保存して、次の復習の時間に試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Gemini",
+        "#Canvas",
+        "#教材づくり",
+        "#小学校社会",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 33,
+      "cover": "assets/covers/57.jpg",
+      "youtube_id": null,
+      "video_file": "第57回_Canvasでクイズゲーム_video.mp4",
+      "drive": {
+        "folder_id": "1c5SVvjVyvABNU3sM215OfzcCl-RmoeX7",
+        "video_id": "1zDD4tSX6Ll0SYU0ufDXWahKsxn04C6AI",
+        "video_v_id": "1CSw_HbWJ8K3VHLI4UkH2LLloOygl5QVk"
+      },
+      "cover_src_modified": "2026-10-31T11:12:18.013Z"
+    },
+    {
+      "id": "58",
+      "no": 58,
+      "slug": "お便りをやさしい日本語に",
+      "title": "お便りをやさしい日本語に",
+      "series": "応用編",
+      "part": "a4",
+      "apps": [
+        "Gemini"
+      ],
+      "description": "",
+      "hashtags": [],
+      "status": "in_progress",
+      "duration_sec": null,
+      "cover": null,
+      "youtube_id": null,
+      "video_file": null,
+      "drive": {
+        "folder_id": "1UgjbzO-nqRNxfB2CBdV7zPQC4mGJMncP",
+        "video_id": null,
+        "video_v_id": null
+      },
+      "cover_src_modified": null
+    },
+    {
+      "id": "59",
+      "no": 59,
+      "slug": "学年だよりのイラストを生成",
+      "title": "学年だよりのイラストを生成",
+      "series": "応用編",
+      "part": "a4",
+      "apps": [
+        "Gemini"
+      ],
+      "description": "",
+      "hashtags": [],
+      "status": "in_progress",
+      "duration_sec": null,
+      "cover": null,
+      "youtube_id": null,
+      "video_file": null,
+      "drive": {
+        "folder_id": "1LbWpvE_71pv_wO3PUNffKQHjCKBE38hE",
+        "video_id": null,
+        "video_v_id": null
+      },
+      "cover_src_modified": null
+    },
+    {
+      "id": "60",
+      "no": 60,
+      "slug": "Google_Vidsで行事ふりかえり動画",
+      "title": "Google Vidsで行事ふりかえり動画",
+      "series": "応用編",
+      "part": "a4",
+      "apps": [
+        "Vids"
+      ],
+      "description": "",
+      "hashtags": [],
+      "status": "in_progress",
+      "duration_sec": null,
+      "cover": null,
+      "youtube_id": null,
+      "video_file": null,
+      "drive": {
+        "folder_id": "1YKZeo7SfBvsIkR3LUUZvdPGVEn5pAtja",
+        "video_id": null,
+        "video_v_id": null
+      },
+      "cover_src_modified": null
+    },
+    {
+      "id": "ex-canvas",
+      "no": null,
+      "slug": "Canvasからサイト",
+      "title": "Geminiで作ったアプリを Googleサイトで配る",
+      "series": "番外編",
+      "part": "ex",
+      "apps": [
+        "Gemini",
+        "サイト"
+      ],
+      "description": "Canvasで作った学習アプリ、子どもに使わせたい。でも子どものGeminiはフィルタリングで止まっている。そんなことはありませんか。\nCanvasのエクスポートに、いつの間にか Google サイト が増えていました。押すだけで、アプリが入ったサイトが自動でできます。\n\nやることは4つ\n① GeminiのCanvasでアプリを作る\n② 右上のエクスポート → Google サイト\n③ Google サイトを開くで、アプリが入っているか確かめる\n④ 公開 → ウェブアドレスを決めて、見られる人を選ぶ\n\nできたサイトのURLを配れば、子どもはGeminiを開かずにアプリを使えます。\nサイトはアプリと同じ名前で、マイドライブにできます。公開するまでは自分しか見られません。\n配る前に、動きと中身を先生が確かめておきましょう。\n\n2026年10月に個人アカウントで確かめました。公式の説明にはまだ載っていない新しい機能です。学校のアカウントでメニューが出ないときや、公開の範囲が選べないときは、学校の管理者に確認してみてください。\n配る手間を、子どもと向き合う時間に。\n保存して、次の授業で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Gemini",
+        "#Googleサイト",
+        "#先生とつながりたい",
+        "#教師のバトン",
+        "#ICT教育"
+      ],
+      "status": "ready",
+      "duration_sec": 40,
+      "cover": "assets/covers/ex-canvas.jpg",
+      "youtube_id": null,
+      "video_file": "番外編_Canvasからサイト_video.mp4",
+      "drive": {
+        "folder_id": "1dE8GwgXqB_Gt0aNnIk1TRmsXgyACyDrx",
+        "video_id": "11deXj_2aeShaET2YeuCQaObi9V1XB9os",
+        "video_v_id": "1wqTgtRAahvdiGiB31L2TmkRt88fjXGRU"
+      },
+      "cover_src_modified": "2026-10-18T06:37:27.965Z"
+    }
+  ]
+}
