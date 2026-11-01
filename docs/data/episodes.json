@@ -69,7 +69,7 @@
       "status": "ready",
       "duration_sec": 29,
       "cover": "assets/covers/01.jpg",
-      "youtube_id": null,
+      "youtube_id": "W8mSMn9Sxno",
       "video_file": "第01回_音声入力_video.mp4",
       "drive": {
         "folder_id": "1HO8wm4K36_Le7aEHUAVO0-1us4PfT59Q",
@@ -100,7 +100,7 @@
       "status": "ready",
       "duration_sec": 31,
       "cover": "assets/covers/02.jpg",
-      "youtube_id": null,
+      "youtube_id": "6ZuTMLi1JJo",
       "video_file": "第02回_1人1枚スライド_video.mp4",
       "drive": {
         "folder_id": "14xg7qCXme2QEScC24kEkv9rBDXe4Mb0z",
@@ -131,7 +131,7 @@
       "status": "ready",
       "duration_sec": 31,
       "cover": "assets/covers/03.jpg",
-      "youtube_id": null,
+      "youtube_id": "w8A5cSU_EO4",
       "video_file": "第03回_チェックボックス_video.mp4",
       "drive": {
         "folder_id": "1401sAPzR-8XUa_FDQvFpEWqnWs4fNdL8",
@@ -162,7 +162,7 @@
       "status": "ready",
       "duration_sec": 32,
       "cover": "assets/covers/04.jpg",
-      "youtube_id": null,
+      "youtube_id": "_WVIXeF9Qu8",
       "video_file": "第04回_各生徒にコピー_video.mp4",
       "drive": {
         "folder_id": "1IOby-_FRI5kfpaW0CRLJZUc3tpW0qfxl",
@@ -193,7 +193,7 @@
       "status": "ready",
       "duration_sec": 31,
       "cover": "assets/covers/05.jpg",
-      "youtube_id": null,
+      "youtube_id": "0YBhOuUbljM",
       "video_file": "第05回_テストで自動採点_video.mp4",
       "drive": {
         "folder_id": "1kQ4VzO0yb5yRWxmxxT8GbOVjSE5hdplg",
@@ -224,7 +224,7 @@
       "status": "ready",
       "duration_sec": 32,
       "cover": "assets/covers/06.jpg",
-      "youtube_id": null,
+      "youtube_id": "HQaYYCam4A8",
       "video_file": "第06回_提案モード_video.mp4",
       "drive": {
         "folder_id": "1IG-FGfVVg6pjVpQrmJ2gNUynR2vqOBuF",
@@ -1524,73 +1524,100 @@
       "id": "48",
       "no": 48,
       "slug": "思考ツールスライドを班で共同編集",
-      "title": "思考ツールスライドを班で共同編集",
+      "title": "思考ツールのスライドを班ごとに共同編集",
       "series": "応用編",
       "part": "a3",
       "apps": [
         "スライド"
       ],
-      "description": "",
-      "hashtags": [],
-      "status": "in_progress",
-      "duration_sec": null,
-      "cover": null,
+      "description": "班で話し合う時間。全部の班を見て回りたいのに、気づいたら時間が終わっていた。そんなことはありませんか。\nGoogleスライドを1つだけ用意して、班ごとに1枚ずつ使わせると、先生は全部の班の書きこみを一度に見ることができます。\n\nやることは3つ\n① 班の数だけスライドを用意する(1枚目に思考ツールを作り、複製して 1班〜6班 と名前をつける)\n② Classroom で配るときに、生徒はファイルを編集可能 を選ぶ\n③ 先生は 表示 → グリッド表示 にして、全部の班のスライドを並べて見る\n\n書きこみはリアルタイムで増えていきます。手が止まっている班がすぐわかるので、その班に声をかけに行けます。\n\nはじめに、自分の班のスライドだけに書く、ほかの班のスライドはさわらない、と約束しておきましょう。\nもしものときは、変更履歴から前の状態にもどせます。\n付せんに子どもの名前を書かせないなど、共有する中身にも気をつけてください。\n\n見て回る時間を、問い返す時間に。\n保存して、次の班活動で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleスライド",
+        "#思考ツール",
+        "#協働的な学び",
+        "#授業づくり",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 31,
+      "cover": "assets/covers/48.jpg",
       "youtube_id": null,
-      "video_file": null,
+      "video_file": "第48回_思考ツールスライドを班で共同編集_video.mp4",
       "drive": {
         "folder_id": "1nnbCu8QEYY1x_KhTU6Vg0mTUG0YCtcQY",
-        "video_id": null,
-        "video_v_id": null
+        "video_id": "1XlouT44r_wLTDAHenMDLzkmf80HqdYga",
+        "video_v_id": "14w92lqYNmzXKE1WNB_K9xZRg0MXxW6sn"
       },
-      "cover_src_modified": null
+      "cover_src_modified": "2026-10-31T11:34:57.132Z"
     },
     {
       "id": "49",
       "no": 49,
       "slug": "変更履歴で推敲を見とる",
-      "title": "変更履歴で推敲を見とる",
+      "title": "ドキュメントの変更履歴で、推敲のあとを見とる",
       "series": "応用編",
       "part": "a3",
       "apps": [
         "ドキュメント"
       ],
-      "description": "",
-      "hashtags": [],
-      "status": "in_progress",
-      "duration_sec": null,
-      "cover": null,
+      "description": "子どもの作文、できあがった文章だけを読んで評価していませんか。\nGoogleドキュメントの変更履歴を開くと、子どもがどこを消して、どう書き直したのかを、あとから見ることができます。\n\nやることは3つ\n① 子どもの作文を開いて、ファイル → 変更履歴 → 変更履歴を表示\n② 右に並んだ時間ごとの版を選ぶ。消した所と足した所が色で表示される\n③ もとの画面にもどって、書き直した所をコメントでほめる\n\nとてもいいペンです、を消して、にぎると少しあたたかくて、と書き直す。そんな推敲のあとに、その子の考えや成長がよく出ます。\n消した言葉も履歴に残っているので、前の版にもどすこともできます。\n\nClassroom で 各生徒にコピーを作成 で配ったドキュメントなら、一人ひとりの変更履歴を先生が見られます。\n変更履歴は、評価のためだけでなく、子どもとの対話のきっかけとして使うのがおすすめです。\n\n結果だけでなく、変わっていく過程を見る。\n保存して、次の作文で試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleドキュメント",
+        "#小学校国語",
+        "#作文指導",
+        "#授業づくり",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 30,
+      "cover": "assets/covers/49.jpg",
       "youtube_id": null,
-      "video_file": null,
+      "video_file": "第49回_変更履歴で推敲を見とる_video.mp4",
       "drive": {
         "folder_id": "1QHIRVknXVGPg8Gm4VjGDgt6bekWLZZCL",
-        "video_id": null,
-        "video_v_id": null
+        "video_id": "1WSprtcEx-jocTyr2I5iDvc1mDjggkQwV",
+        "video_v_id": "1G0yVCr_98LhLM7T-nJurTIosK-TrdXWA"
       },
-      "cover_src_modified": null
+      "cover_src_modified": "2026-10-31T11:35:03.364Z"
     },
     {
       "id": "50",
       "no": 50,
       "slug": "マイマップで地域調べ",
-      "title": "マイマップで地域調べ",
+      "title": "マイマップで地域調べをまとめる",
       "series": "応用編",
       "part": "a3",
       "apps": [
         "マイマップ"
       ],
-      "description": "",
-      "hashtags": [],
-      "status": "in_progress",
-      "duration_sec": null,
-      "cover": null,
+      "description": "町たんけんで見つけたこと、ワークシートや付せんにばらばらに書いて、あとでまとめるのが大変。そんなことはありませんか。\nGoogleマイマップを使うと、見つけた場所と気づきを、クラスみんなで1つの地図に書きこめます。\n\nやることは3つ\n① マイマップで新しい地図を作り、名前をつける(例: 3年1組 まちたんけんマップ)\n② 検索の下のマーカーのボタンを押して地図に置き、場所の名前と気づきを書く。カメラのボタンから写真ものせられる\n③ 地図を共有して、班ごとにマーカーを書きこむ\n\n班ごとにマーカーの色を変えると、だれが見つけた場所かがすぐにわかります。\nできた地図は、発表や新聞づくり、次の学年への引きつぎにも使えます。\n\n自分や友だちの家の場所など、個人の情報は地図にのせません。写真に人の顔や表札が写らないようにしましょう。\n共有の範囲は学校の中だけにしておくと安心です。\n学校のアカウントでマイマップが使えるかどうかは、管理者の設定しだいです。\n\n足で見つけたことを、みんなの地図に。\n保存して、次の町たんけんで試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Googleマイマップ",
+        "#小学校社会",
+        "#地域学習",
+        "#授業づくり",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 33,
+      "cover": "assets/covers/50.jpg",
       "youtube_id": null,
-      "video_file": null,
+      "video_file": "第50回_マイマップで地域調べ_video.mp4",
       "drive": {
         "folder_id": "1NODSmm_aoUcmi0Ak2uDWOwfyNlXNPUoF",
-        "video_id": null,
-        "video_v_id": null
+        "video_id": "1RVDJp4xD0O4R8SFkl2z8WDq7V2zrsohs",
+        "video_v_id": "16wUxeueAFqwlat97jGZiDCKM6dchCp4M"
       },
-      "cover_src_modified": null
+      "cover_src_modified": "2026-10-31T11:35:08.351Z"
     },
     {
       "id": "51",
@@ -1835,67 +1862,94 @@
       "apps": [
         "Gemini"
       ],
-      "description": "",
-      "hashtags": [],
-      "status": "in_progress",
-      "duration_sec": null,
-      "cover": null,
+      "description": "学校から出すお便り。ご持参ください、記帳をお願いいたします。日本語が母語でない保護者の方には、伝わりにくい言葉が多くありませんか。\nGemini に、お便りの文章と、だれに伝えたいかを渡すと、やさしい日本語に書きかえてくれます。\n\nやることは3つ\n① お便りの文章から、名前や連絡先などを消してからはりつける\n② だれに伝えたいかと、書きかえ方を伝える(例: 外国にルーツのある保護者にも伝わるように、やさしい日本語に書きかえて。1文を短く。漢字にはふりがなを( )で)\n③ 必要なら、ほかの言葉への翻訳も頼む(例: ポルトガル語にも訳して)\n\nやさしい日本語は、外国にルーツのある家庭だけでなく、低学年の子どもや、忙しい保護者にとっても読みやすい言葉です。\n\n日時や持ち物など、大事な所は原文と見比べて先生が必ず確かめてください。翻訳は、その言葉がわかる人に読んでもらえるとさらに安心です。\nGemini には、子どもや保護者の名前など個人の情報は入れません。\n学校のアカウントで Gemini が使えるかどうかは、管理者の設定しだいです。\n\nことばの壁を、つながる橋に。\n保存して、次のお便りで試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Gemini",
+        "#やさしい日本語",
+        "#多文化共生",
+        "#学級通信",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 31,
+      "cover": "assets/covers/58.jpg",
       "youtube_id": null,
-      "video_file": null,
+      "video_file": "第58回_お便りをやさしい日本語に_video.mp4",
       "drive": {
         "folder_id": "1UgjbzO-nqRNxfB2CBdV7zPQC4mGJMncP",
-        "video_id": null,
-        "video_v_id": null
+        "video_id": "1wHccvBCb4_NVnCzzUCgukWO8aha9yx7D",
+        "video_v_id": "1IElZNBAx2Ddp9-5BS2F-JqmQos9zd_Rs"
       },
-      "cover_src_modified": null
+      "cover_src_modified": "2026-10-31T11:35:14.989Z"
     },
     {
       "id": "59",
       "no": 59,
       "slug": "学年だよりのイラストを生成",
-      "title": "学年だよりのイラストを生成",
+      "title": "学年だよりのイラストを Gemini で",
       "series": "応用編",
       "part": "a4",
       "apps": [
         "Gemini"
       ],
-      "description": "",
-      "hashtags": [],
-      "status": "in_progress",
-      "duration_sec": null,
-      "cover": null,
+      "description": "学年だよりや学級通信の挿絵。季節に合うイラストを探すだけで、思った以上に時間がかかっていませんか。\nGemini に、ほしい絵を言葉で伝えると、オリジナルのイラストを作ってくれます。\n\nやることは3つ\n① テーマと雰囲気を伝える(例: 学年だよりに使うイラスト。秋の読書がテーマで、本を読むどうぶつたち。やさしいタッチ)\n② 文字は入れない、横長で、など使い方も書いて送る\n③ できた画像をダウンロードして、お便りに入れる\n\n気に入らなければ、もっと明るく、どうぶつを3びきに、など言葉で作り直しを頼めます。\n\nアニメやゲームのキャラクター、実在の人物に似せた絵は頼まないようにしましょう。\n子どもの写真をアップロードして加工するのはやめておきます。\nGemini で作った画像には、AIで作ったことを示す目に見えないしるしが入っています。\n学校のアカウントで画像の生成が使えるかどうかは、管理者の設定しだいです。\n\n探す時間を、言葉を考える時間に。\n保存して、次の学年だよりで試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#Gemini",
+        "#学年だより",
+        "#学級通信",
+        "#画像生成",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 31,
+      "cover": "assets/covers/59.jpg",
       "youtube_id": null,
-      "video_file": null,
+      "video_file": "第59回_学年だよりのイラストを生成_video.mp4",
       "drive": {
         "folder_id": "1LbWpvE_71pv_wO3PUNffKQHjCKBE38hE",
-        "video_id": null,
-        "video_v_id": null
+        "video_id": "1nUOTkuU1-nT60nIbx3RPErYh3QPL_mFO",
+        "video_v_id": "1l08ADBGZOYPJvA2SC9mRr-lQwyOJkfj2"
       },
-      "cover_src_modified": null
+      "cover_src_modified": "2026-10-31T11:35:19.943Z"
     },
     {
       "id": "60",
       "no": 60,
       "slug": "Google_Vidsで行事ふりかえり動画",
-      "title": "Google Vidsで行事ふりかえり動画",
+      "title": "Google Vids で行事のふりかえり動画",
       "series": "応用編",
       "part": "a4",
       "apps": [
         "Vids"
       ],
-      "description": "",
-      "hashtags": [],
-      "status": "in_progress",
-      "duration_sec": null,
-      "cover": null,
+      "description": "学習発表会や運動会の写真。たくさん撮ったのに、フォルダに眠ったままになっていませんか。\nGoogle Vids を使うと、テンプレートに写真とひと言を入れるだけで、行事のふりかえり動画が作れます。\n\nやることは3つ\n① Vids で新しい動画を作り、テンプレートを選ぶ\n② メディアからドライブの写真を入れて、ひと言を書く\n③ 音声から音楽を選び、共有からダウンロードする\n\nできた動画は、次の日の朝の会でみんなで見返したり、次の学年への引きつぎに使ったりできます。子どもたちと一緒に、どの写真を使うか選ぶのもおすすめです。\n\nVids は、Google Workspace for Education の各エディションで使えると案内されています。文章から動画を自動で作る Gemini の機能は、Education Plus などの一部のエディションやアドオンが必要です。今回の方法は、AIを使わずにできます。\n子どもの顔が写った写真を使うときは、公開や配布の範囲を学校の決まりにそって確かめてください。\n学校のアカウントで Vids が使えるかどうかは、管理者の設定しだいです。画面の表示は更新で変わることがあります。\n\nがんばりを、みんなで見返す時間に。\n保存して、次の行事のあとに試してみてください。",
+      "hashtags": [
+        "#教育",
+        "#GIGAスクール構想",
+        "#GoogleVids",
+        "#学校行事",
+        "#学級経営",
+        "#動画づくり",
+        "#先生とつながりたい",
+        "#教師のバトン"
+      ],
+      "status": "ready",
+      "duration_sec": 33,
+      "cover": "assets/covers/60.jpg",
       "youtube_id": null,
-      "video_file": null,
+      "video_file": "第60回_Google_Vidsで行事ふりかえり動画_video.mp4",
       "drive": {
         "folder_id": "1YKZeo7SfBvsIkR3LUUZvdPGVEn5pAtja",
-        "video_id": null,
-        "video_v_id": null
+        "video_id": "1LmHjNOhrL_xItov2CIeNBrvcXdMg5h1N",
+        "video_v_id": "1jf50TR8o4Mevj62N7P-oAO8J13oKjtNb"
       },
-      "cover_src_modified": null
+      "cover_src_modified": "2026-10-31T11:35:24.546Z"
     },
     {
       "id": "ex-canvas",
